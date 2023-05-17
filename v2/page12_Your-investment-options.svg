@@ -1,714 +1,428 @@
-<svg width="792" height="612" viewBox="0 0 792 612" fill="none" xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="12 Your Investment Options">
-        <g id="What you get">
-            <rect width="296" height="397" transform="translate(472 93)" fill="#F1F2F2" />
-            <text id="Heading" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-                font-size="20" font-weight="600" letter-spacing="0.0112em">
-                <tspan x="488" y="123">What you get</tspan>
-            </text>
-            <g id="Content">
-                <g id="Savings">
-                    <g id="Header">
-                        <text id="Token_DisplaySavings" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                            font-family="Poppins" font-size="36" font-weight="600" letter-spacing="0.0112em">
-                            <tspan x="488" y="172.6">$27,655</tspan>
-                        </text>
-                        <g id="Description">
-                            <text id="Estimated 25-Year" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="12" letter-spacing="0.0112em">
-                                <tspan x="641" y="157.2">Estimated 25-Year</tspan>
-                            </text>
-                            <text id="Electric Bill Savings" fill="#002E5D" xml:space="preserve"
-                                style="white-space: pre" font-family="Poppins" font-size="12" letter-spacing="0.0112em">
-                                <tspan x="641" y="171.2">Electric Bill Savings</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <line id="Divider" x1="488" y1="189.5" x2="752" y2="189.5" stroke="black" />
-                </g>
-                <g id="Description_2" clip-path="url(#clip0_3969_17638)">
-                    <g id="3">
-                        <g id="ENERGY_Icon_SolarHouse_FullColor_New">
-                            <g id="Icon/ medal">
-                                <g id="Asset 4 2" clip-path="url(#clip1_3969_17638)">
-                                    <g id="Layer 1">
-                                        <g id="Group">
-                                            <g id="Group_2">
-                                                <path id="Vector"
-                                                    d="M508.129 221.293H499.015L491.945 228.479V238.524H516.365V229.705L508.129 221.293Z"
-                                                    fill="white" />
-                                                <g id="Group_3">
-                                                    <path id="Vector_2"
-                                                        d="M507.683 229.736L499.508 221.309L509.207 221.184L517.281 229.789L507.683 229.736Z"
-                                                        fill="#A9ABAC" />
-                                                    <path id="Vector_3"
-                                                        d="M517.281 229.721H507.512L499.508 221.309H509.277L517.281 229.721Z"
-                                                        stroke="#000006" stroke-width="0.615944"
-                                                        stroke-miterlimit="10" />
-                                                    <path id="Vector_4"
-                                                        d="M501.65 230.102H496.766V238.293H501.65V230.102Z"
-                                                        fill="#D71920" />
-                                                    <path id="Vector_5"
-                                                        d="M491.943 228.479V229.729H490.727L499.014 221.215L491.943 228.479ZM491.943 228.479V238.54H516.363V229.722"
-                                                        stroke="#000006" stroke-width="0.615944"
-                                                        stroke-miterlimit="10" />
-                                                    <path id="Vector_6"
-                                                        d="M513.986 231.553H507.609V236.165H513.986V231.553Z"
-                                                        fill="#A9ABAC" stroke="#000006" stroke-width="0.615944"
-                                                        stroke-miterlimit="10" />
-                                                    <path id="Vector_7" d="M510.867 231.416V236.165" stroke="#000006"
-                                                        stroke-width="0.615944" stroke-miterlimit="10" />
-                                                </g>
-                                                <path id="Vector_8"
-                                                    d="M490.984 229.464L491.709 228.74H491.945V229.728L490.984 229.788V229.464Z"
-                                                    fill="#000006" />
-                                            </g>
-                                            <path id="Vector_9" d="M498.254 234.332H497.562V235.024H498.254V234.332Z"
-                                                fill="#000006" />
-                                        </g>
-                                        <g id="Group_4">
-                                            <path id="Vector_10"
-                                                d="M514.232 228.088L507.617 228.172L502.312 222.632L509.042 222.625L514.232 228.088Z"
-                                                fill="white" />
-                                            <path id="Vector_11" d="M504.695 225.148H511.53" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_12" d="M504.219 224.645H511.023" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_13" d="M503.734 224.139H510.543" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_14" d="M503.258 223.635H510.07" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_15" d="M502.781 223.131H509.599" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_16" d="M506.234 226.66H512.946" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_17" d="M505.75 226.156H512.442" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_18" d="M507.188 228.172H514.516" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_19" d="M507.188 227.668H513.926" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_20" d="M506.711 227.164H513.43" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_21" d="M505.273 225.652H511.971" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_22" d="M506.812 222.52L512.255 228.247" stroke="#0F7BB6"
-                                                stroke-width="0.351968" stroke-miterlimit="10" />
-                                            <path id="Vector_23" d="M509.102 222.605L514.52 228.309" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_24" d="M504.508 222.52L509.95 228.247" stroke="#0F7BB6"
-                                                stroke-width="0.351968" stroke-miterlimit="10" />
-                                            <path id="Vector_25" d="M502.312 222.549L507.725 228.245" stroke="#0F7BB6"
-                                                stroke-width="0.351968" stroke-miterlimit="10" />
-                                            <path id="Vector_26" d="M501.977 222.611H509.371" stroke="#0F7BB6"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_27" d="M507.227 228.328H514.64" stroke="#A9ABAC"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_28" d="M501.797 222.416H509.452" stroke="#A9ABAC"
-                                                stroke-width="0.263976" stroke-miterlimit="10" />
-                                            <path id="Vector_29" d="M509.109 222.389L514.704 228.277" stroke="#A9ABAC"
-                                                stroke-width="0.175984" stroke-miterlimit="10" />
-                                            <path id="Vector_30" d="M501.586 222.301L507.569 228.587" stroke="#A9ABAC"
-                                                stroke-width="0.351968" stroke-miterlimit="10" />
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
-                        </g>
-                        <g id="Built-In Energy Shingles">
-                            <g id="Energy shingles">
-                                <text id="7.18 kW Timberline Solar ES" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="528" y="228.7">7.18 kW Timberline Solar ES</tspan>
-                                </text>
-                                <text id="Add value to your home with a roof that reliably reduces your energy bills."
-                                    fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-                                    font-size="10" letter-spacing="0.0112em">
-                                    <tspan x="528" y="246">Add value to your home with a roof that </tspan>
-                                    <tspan x="528" y="261">reliably reduces your energy bills.</tspan>
-                                </text>
-                            </g>
-                        </g>
-                    </g>
-                    <g id="7-part">
-                        <g id="House Icon_ New">
-                            <g id="Layer 1_2">
-                                <path id="Vector_31" d="M503.196 292.395L494.367 298.299V311.287H513.084V298.762"
-                                    fill="white" />
-                                <g id="Clip path group">
-                                    <mask id="mask0_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="493" y="298" width="22" height="16">
-                                        <g id="clippath">
-                                            <path id="Vector_32" d="M514.516 298.766H493.219V313.001H514.516V298.766Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask0_3969_17638)">
-                                        <g id="Group_5">
-                                            <path id="Vector_33"
-                                                d="M495.73 299.469H493.914V312.295H513.809V310.591H495.73V299.469Z"
-                                                fill="#626367" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_2">
-                                    <mask id="mask1_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="503" y="292" width="16" height="20">
-                                        <g id="clippath-1">
-                                            <path id="Vector_34" d="M518.034 292.4H503.195V311.292H518.034V292.4Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask1_3969_17638)">
-                                        <g id="Group_6">
-                                            <path id="Vector_35"
-                                                d="M507.495 293.102H503.891L512.025 298.445V310.591H513.785V299.469H517.327L507.495 293.102Z"
-                                                fill="#626367" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_3">
-                                    <mask id="mask2_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="489" y="290" width="20" height="12">
-                                        <g id="clippath-2">
-                                            <path id="Vector_36" d="M508.199 290.125H489.672V301.983H508.199V290.125Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask2_3969_17638)">
-                                        <g id="Group_7">
-                                            <path id="Vector_37"
-                                                d="M503.979 290.828L490.367 299.58L491.272 301.284L493.888 299.468H495.704V298.444L503.888 293.1H507.492L503.979 290.828Z"
-                                                fill="#626367" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_4">
-                                    <mask id="mask3_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="513" y="298" width="6" height="4">
-                                        <g id="clippath-3">
-                                            <path id="Vector_38" d="M518.162 298.766H513.078V301.76H518.162V298.766Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask3_3969_17638)">
-                                        <g id="Group_8">
-                                            <path id="Vector_39"
-                                                d="M517.33 299.469H513.789L516.286 301.061L517.464 299.553L517.33 299.469Z"
-                                                fill="#626367" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_5">
-                                    <mask id="mask4_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="489" y="293" width="9" height="7">
-                                        <g id="clippath-4">
-                                            <path id="Vector_40" d="M497.181 293.445H489.859V299.329H497.181V293.445Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask4_3969_17638)">
-                                        <g id="Group_9">
-                                            <path id="Vector_41"
-                                                d="M495.834 294.143L490.555 297.678L491.191 298.628L496.47 295.093L495.834 294.143Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_6">
-                                    <mask id="mask5_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="510" y="293" width="8" height="7">
-                                        <g id="clippath-5">
-                                            <path id="Vector_42" d="M517.931 293.445H510.609V299.329H517.931V293.445Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask5_3969_17638)">
-                                        <g id="Group_10">
-                                            <path id="Vector_43"
-                                                d="M511.948 294.146L511.312 295.096L516.593 298.629L517.228 297.679L511.948 294.146Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_7">
-                                    <mask id="mask6_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="489" y="293" width="6" height="5">
-                                        <g id="clippath-6">
-                                            <path id="Vector_44" d="M494.352 293.379H489.906V297.341H494.352V293.379Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask6_3969_17638)">
-                                        <g id="Group_11">
-                                            <path id="Vector_45"
-                                                d="M493.024 294.082L490.617 295.693L491.253 296.643L493.66 295.032L493.024 294.082Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_8">
-                                    <mask id="mask7_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="513" y="293" width="5" height="5">
-                                        <g id="clippath-7">
-                                            <path id="Vector_46" d="M517.982 293.379H513.508V297.383H517.982V293.379Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask7_3969_17638)">
-                                        <g id="Group_12">
-                                            <path id="Vector_47"
-                                                d="M514.867 294.08L514.203 295.07L516.609 296.682L517.273 295.692L514.867 294.08Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_9">
-                                    <mask id="mask8_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="489" y="284" width="19" height="12">
-                                        <g id="clippath-8">
-                                            <path id="Vector_48" d="M507.124 284.443H489.648V295.145H507.124V284.443Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask8_3969_17638)">
-                                        <g id="Group_13">
-                                            <path id="Vector_49"
-                                                d="M504.011 285.161H503.99L503.983 285.146L490.344 293.372L490.989 294.445L503.99 286.612H506.417L504.011 285.161Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Clip path group_10">
-                                    <mask id="mask9_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                                        x="503" y="285" width="16" height="11">
-                                        <g id="clippath-9">
-                                            <path id="Vector_50" d="M518.354 285.904H503.305V295.147H518.354V285.904Z"
-                                                fill="white" />
-                                        </g>
-                                    </mask>
-                                    <g mask="url(#mask9_3969_17638)">
-                                        <g id="Group_14">
-                                            <path id="Vector_51"
-                                                d="M506.434 286.607H504.008L517.002 294.441L517.654 293.368L506.434 286.607Z"
-                                                fill="#117BB6" />
-                                        </g>
-                                    </g>
-                                </g>
-                                <g id="Group_15">
-                                    <g id="Clip path group_11">
-                                        <mask id="mask10_3969_17638" style="mask-type:luminance"
-                                            maskUnits="userSpaceOnUse" x="493" y="286" width="15" height="10">
-                                            <g id="clippath-10">
-                                                <path id="Vector_52"
-                                                    d="M507.169 286.705H493.102V295.352H507.169V286.705Z"
-                                                    fill="white" />
-                                            </g>
-                                        </mask>
-                                        <g mask="url(#mask10_3969_17638)">
-                                            <g id="Group_16">
-                                                <path id="Vector_53"
-                                                    d="M504.056 287.417H504.035L504.028 287.41L493.797 293.581L494.442 294.654L504.035 288.869H506.462L504.056 287.417Z"
-                                                    fill="#117BB6" />
-                                            </g>
-                                        </g>
-                                    </g>
-                                    <g id="Clip path group_12">
-                                        <mask id="mask11_3969_17638" style="mask-type:luminance"
-                                            maskUnits="userSpaceOnUse" x="503" y="288" width="12" height="8">
-                                            <g id="clippath-11">
-                                                <path id="Vector_54"
-                                                    d="M514.904 288.166H503.305V295.333H514.904V288.166Z"
-                                                    fill="white" />
-                                            </g>
-                                        </mask>
-                                        <g mask="url(#mask11_3969_17638)">
-                                            <g id="Group_17">
-                                                <path id="Vector_55"
-                                                    d="M506.434 288.867H504.008L513.559 294.625L514.204 293.552L506.434 288.867Z"
-                                                    fill="#117BB6" />
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                                <path id="Vector_56"
-                                    d="M506.662 282.522L504.13 281L501.367 282.662L501.956 283.644L504.039 282.388L506.024 283.588L506.662 282.522Z"
-                                    fill="#117BB6" />
-                                <path id="Vector_57"
-                                    d="M504.005 283.039L507.96 285.43L507.301 286.496L503.984 284.491L500.492 286.594L499.805 285.543L504.005 283.039Z"
-                                    fill="#117BB6" />
-                                <path id="Vector_58" d="M506.446 301.057H501.242V310.622H506.446V301.057Z"
-                                    fill="#D72027" />
-                                <path id="Vector_59"
-                                    d="M502.296 306.822C502.567 306.822 502.786 306.602 502.786 306.331C502.786 306.06 502.567 305.84 502.296 305.84C502.024 305.84 501.805 306.06 501.805 306.331C501.805 306.602 502.024 306.822 502.296 306.822Z"
-                                    fill="#231F20" />
-                            </g>
-                        </g>
-                        <g id="Roofing System">
-                            <g id="Content_2">
-                                <text id="7-Part Solar Roofing System" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="528" y="295.7">7-Part Solar Roofing System</tspan>
-                                </text>
-                                <text
-                                    id="Enjoy peace of mind with a roof that is built to last and is trusted by millions."
-                                    fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-                                    font-size="10" letter-spacing="0.0112em">
-                                    <tspan x="528" y="313">Enjoy peace of mind with a roof that is </tspan>
-                                    <tspan x="528" y="328">built to last and is trusted by millions.</tspan>
-                                </text>
-                            </g>
-                        </g>
-                    </g>
-                    <g id="4">
-                        <g id="Illustration_Monitor">
-                            <g id="Vector_60">
-                                <path
-                                    d="M493.29 360.821C493.29 358.234 495.228 356.107 497.71 355.857V357.869C496.316 358.107 495.254 359.338 495.254 360.821C495.254 361.467 495.456 362.066 495.799 362.555L494.399 363.978C493.706 363.118 493.29 362.019 493.29 360.821Z"
-                                    fill="#D71920" />
-                                <path
-                                    d="M496.494 363.26L495.093 364.683C495.94 365.387 497.022 365.809 498.201 365.809C499.38 365.809 500.462 365.387 501.309 364.683L499.908 363.26C499.427 363.609 498.837 363.814 498.201 363.814C497.565 363.814 496.975 363.609 496.494 363.26Z"
-                                    fill="#D71920" />
-                                <path
-                                    d="M500.603 362.555L502.003 363.978C502.696 363.118 503.112 362.019 503.112 360.821C503.112 358.234 501.174 356.107 498.692 355.857V357.869C500.085 358.107 501.147 359.338 501.147 360.821C501.147 361.467 500.946 362.066 500.603 362.555Z"
-                                    fill="#D71920" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M497.823 355.73V357.966L497.729 357.982C496.389 358.211 495.368 359.394 495.368 360.821C495.368 361.442 495.562 362.018 495.892 362.488L495.947 362.567L494.39 364.149L494.311 364.05C493.602 363.171 493.177 362.046 493.177 360.821C493.177 358.175 495.159 355.999 497.699 355.742L497.823 355.73ZM498.579 355.73L498.703 355.742C501.242 355.999 503.225 358.175 503.225 360.821C503.225 362.046 502.8 363.171 502.091 364.05L502.012 364.149L500.455 362.567L500.51 362.488C500.84 362.018 501.034 361.442 501.034 360.821C501.034 359.394 500.013 358.211 498.673 357.982L498.579 357.966V355.73ZM497.596 355.985C495.233 356.287 493.404 358.337 493.404 360.821C493.404 361.945 493.778 362.981 494.408 363.805L495.652 362.541C495.329 362.049 495.141 361.457 495.141 360.821C495.141 359.314 496.196 358.058 497.596 357.773V355.985ZM498.805 355.985V357.773C500.206 358.058 501.261 359.314 501.261 360.821C501.261 361.457 501.072 362.049 500.749 362.541L501.994 363.805C502.623 362.981 502.998 361.945 502.998 360.821C502.998 358.337 501.169 356.287 498.805 355.985ZM496.481 363.11L496.56 363.167C497.023 363.502 497.589 363.699 498.201 363.699C498.813 363.699 499.379 363.502 499.842 363.167L499.921 363.11L501.477 364.692L501.381 364.772C500.515 365.492 499.407 365.924 498.201 365.924C496.994 365.924 495.887 365.492 495.021 364.772L494.924 364.692L496.481 363.11ZM496.507 363.409L495.263 364.673C496.075 365.313 497.094 365.694 498.201 365.694C499.308 365.694 500.327 365.313 501.139 364.673L499.895 363.409C499.41 363.737 498.827 363.929 498.201 363.929C497.575 363.929 496.992 363.737 496.507 363.409Z"
-                                    fill="#101820" />
-                                <path d="M505.79 359.838H508.022V363.819H505.79V359.838Z" fill="#002E5D" />
-                                <path d="M505.79 364.814H508.022V365.809H505.79V364.814Z" fill="#002E5D" />
-                                <path d="M509.138 357.847H511.371V363.819H509.138V357.847Z" fill="#002E5D" />
-                                <path d="M512.487 355.857H514.719V363.819H512.487V355.857Z" fill="#002E5D" />
-                                <path d="M509.138 364.814H511.371V365.809H509.138V364.814Z" fill="#002E5D" />
-                                <path d="M512.487 364.814H514.719V365.809H512.487V364.814Z" fill="#002E5D" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M512.373 355.742H514.832V363.934H512.373V355.742ZM512.6 355.972V363.704H514.605V355.972H512.6ZM509.025 357.732H511.484V363.934H509.025V357.732ZM509.252 357.962V363.704H511.257V357.962H509.252ZM505.677 359.723H508.136V363.934H505.677V359.723ZM505.904 359.953V363.704H507.909V359.953H505.904ZM505.677 364.699H508.136V365.924H505.677V364.699ZM505.904 364.929V365.694H507.909V364.929H505.904ZM509.025 364.699H511.484V365.924H509.025V364.699ZM509.252 364.929V365.694H511.257V364.929H509.252ZM512.373 364.699H514.832V365.924H512.373V364.699ZM512.6 364.929V365.694H514.605V364.929H512.6Z"
-                                    fill="#101820" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M489.719 353.143H518.29V370.514H506.862V373.409L509.719 373.409V374.857H498.29V373.409L501.147 373.409V370.514H489.719V353.143ZM491.147 354.59H516.862V367.619H491.147V354.59ZM504.004 369.971C504.399 369.971 504.719 369.647 504.719 369.247C504.719 368.848 504.399 368.524 504.004 368.524C503.61 368.524 503.29 368.848 503.29 369.247C503.29 369.647 503.61 369.971 504.004 369.971Z"
-                                    fill="#D9D9D6" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M501.147 373.409L498.29 373.409V374.857H509.719V373.409L506.862 373.409V370.514H518.29V353.143H489.719V370.514H501.147V373.409ZM490.165 370.062H501.594V373.862L498.737 373.862V374.404H509.272V373.862L506.415 373.862V370.062H517.844V353.595H490.165V370.062ZM517.308 354.138V368.071H504.004H490.701V354.138H517.308ZM504.004 368.071C504.646 368.071 505.165 368.598 505.165 369.247C505.165 369.897 504.646 370.424 504.004 370.424C503.363 370.424 502.844 369.897 502.844 369.247C502.844 368.598 503.363 368.071 504.004 368.071ZM491.147 354.59H516.862V367.619H491.147V354.59ZM504.719 369.247C504.719 369.647 504.399 369.971 504.004 369.971C503.61 369.971 503.29 369.647 503.29 369.247C503.29 368.848 503.61 368.524 504.004 368.524C504.399 368.524 504.719 368.848 504.719 369.247Z"
-                                    fill="#101820" />
-                            </g>
-                        </g>
-                        <g id="Monitoring Energy">
-                            <text id="Energy Production Data" fill="#002E5D" xml:space="preserve"
-                                style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
-                                letter-spacing="0.0112em">
-                                <tspan x="528" y="362.7">Energy Production Data </tspan>
-                            </text>
-                            <text id="See how much energy your Solar Roof is producing anytime, anywhere."
-                                fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-                                font-size="10" letter-spacing="0.0112em">
-                                <tspan x="528" y="380">See how much energy your Solar Roof </tspan>
-                                <tspan x="528" y="395">is producing anytime, anywhere.</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="25 year">
-                        <g id="Icon_Medal">
-                            <g id="Vector_61">
-                                <path
-                                    d="M503.998 416.366H503.9C501.579 416.389 499.358 417.282 497.708 418.857C496.058 420.431 495.107 422.563 495.057 424.801C495.008 427.039 495.863 429.209 497.441 430.85C499.02 432.491 501.199 433.475 503.517 433.594C503.644 433.6 503.772 433.602 503.9 433.604H503.998C504.435 433.604 504.872 433.573 505.304 433.512C507.531 433.187 509.548 432.063 510.953 430.366C512.357 428.668 513.046 426.522 512.881 424.356C512.716 422.189 511.709 420.163 510.062 418.682C508.416 417.201 506.25 416.374 503.998 416.366Z"
-                                    fill="#B2B2B5" />
-                                <path
-                                    d="M510.723 430.665C509.326 432.207 507.406 433.217 505.306 433.514C504.874 433.576 504.437 433.607 504 433.607H503.902C503.774 433.607 503.646 433.607 503.519 433.597C501.196 433.479 499.014 432.49 497.436 430.842C497.381 430.785 497.327 430.724 497.275 430.665L493 442.817L497.463 442.045L500.964 446L504 435.985L507.038 445.998L510.539 442.043L515 442.817L510.723 430.665Z"
-                                    fill="#0075B2" />
-                                <path
-                                    d="M503.957 431.448C507.656 431.448 510.654 428.556 510.654 424.989C510.654 421.422 507.656 418.53 503.957 418.53C500.259 418.53 497.261 421.422 497.261 424.989C497.261 428.556 500.259 431.448 503.957 431.448Z"
-                                    fill="white" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M502.88 420.835H505.738L504.31 424.184H506.76L501.86 430.093L503.289 425.76H501.246L502.88 420.835Z"
-                                    fill="#FA121A" />
-                                <path
-                                    d="M503.997 433.979H503.894C503.784 433.979 503.64 433.979 503.495 433.968C501.072 433.848 498.794 432.816 497.15 431.093C495.558 429.431 494.674 427.251 494.676 424.989C494.676 422.621 495.644 420.35 497.37 418.667C499.096 416.984 501.44 416.026 503.894 416H503.997C506.468 416.003 508.837 416.951 510.584 418.636C512.331 420.322 513.314 422.607 513.317 424.991C513.316 427.147 512.512 429.232 511.051 430.864C509.59 432.497 507.57 433.569 505.359 433.885C504.907 433.948 504.452 433.979 503.997 433.979ZM503.997 416.737H503.901C501.681 416.761 499.558 417.617 497.981 419.124C496.403 420.63 495.495 422.67 495.448 424.811C495.4 426.951 496.217 429.026 497.727 430.597C499.236 432.167 501.319 433.11 503.536 433.226C503.666 433.233 503.8 433.235 503.902 433.236H503.997C504.415 433.236 504.834 433.206 505.248 433.148C507.379 432.837 509.31 431.761 510.655 430.136C511.999 428.511 512.659 426.457 512.5 424.383C512.342 422.31 511.379 420.37 509.802 418.952C508.225 417.535 506.152 416.743 503.997 416.737ZM503.954 431.817C502.554 431.817 501.185 431.416 500.021 430.666C498.857 429.916 497.949 428.849 497.414 427.602C496.878 426.354 496.738 424.981 497.011 423.656C497.284 422.332 497.958 421.115 498.948 420.16C499.938 419.205 501.2 418.555 502.573 418.291C503.946 418.028 505.369 418.163 506.663 418.68C507.956 419.197 509.062 420.072 509.84 421.195C510.618 422.318 511.033 423.638 511.033 424.989C511.031 426.799 510.285 428.535 508.957 429.815C507.63 431.095 505.831 431.815 503.954 431.817ZM503.954 418.899C502.705 418.899 501.485 419.256 500.446 419.925C499.408 420.594 498.599 421.545 498.121 422.658C497.643 423.771 497.518 424.995 497.762 426.177C498.005 427.358 498.607 428.443 499.49 429.295C500.373 430.146 501.497 430.726 502.722 430.961C503.947 431.196 505.216 431.076 506.37 430.615C507.523 430.154 508.51 429.373 509.203 428.372C509.897 427.37 510.267 426.193 510.267 424.989C510.265 423.374 509.599 421.826 508.416 420.685C507.232 419.543 505.628 418.901 503.954 418.899Z"
-                                    fill="#03111A" />
-                            </g>
-                        </g>
-                        <g id="Performance">
-                            <text id="25-Year Performance Guarantee" fill="#002E5D" xml:space="preserve"
-                                style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
-                                letter-spacing="0.0112em">
-                                <tspan x="528" y="429.7">25-Year Performance Guarantee</tspan>
-                            </text>
-                            <text
-                                id="Ensure the production of your roof with the purchase of the Solar Max Limited Warranty."
-                                fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-                                font-size="10" letter-spacing="0.0112em">
-                                <tspan x="528" y="447">Ensure the production of your roof with the </tspan>
-                                <tspan x="528" y="462">purchase of the Solar Max Limited Warranty.</tspan>
-                            </text>
-                        </g>
-                    </g>
-                </g>
+<svg width="792" height="612" viewBox="0 0 792 612" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="12 Your Investment Options">
+    <rect width="792" height="612" fill="white"/>
+    <g id="What you get">
+      <rect width="296" height="397" transform="translate(472 93)" fill="#F1F2F2"/>
+      <text id="Heading" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="20" font-weight="600" letter-spacing="0.0112em"><tspan x="488" y="123">What you get</tspan></text>
+      <g id="Content">
+        <g id="Savings">
+          <g id="Header">
+            <text id="Token_DisplaySavings" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="36" font-weight="600" letter-spacing="0.0112em"><tspan x="488" y="172.6">$27,655</tspan></text>
+            <g id="Description">
+              <text id="Estimated 25-Year" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" letter-spacing="0.0112em"><tspan x="641" y="157.2">Estimated 25-Year</tspan></text>
+              <text id="Electric Bill Savings" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" letter-spacing="0.0112em"><tspan x="641" y="171.2">Electric Bill Savings</tspan></text>
             </g>
+          </g>
+          <line id="Divider" x1="488" y1="189.5" x2="752" y2="189.5" stroke="black"/>
         </g>
-        <g id="What You Invest">
-            <g id="Upfront investment">
-                <g id="Info">
-                    <g id="Table">
-                        <g id="Column">
-                            <g id="Header_2">
-                                <mask id="path-75-inside-1_3969_17638" fill="white">
-                                    <path d="M32 93H236V117H32V93Z" />
-                                </mask>
-                                <path d="M32 93H236V117H32V93Z" fill="white" />
-                                <text id="What you pay" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                    font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em">
-                                    <tspan x="32" y="110.6">What you pay</tspan>
-                                </text>
-                                <path d="M236 116H32V118H236V116Z" fill="#F1F2F2"
-                                    mask="url(#path-75-inside-1_3969_17638)" />
-                            </g>
-                            <g id="Row">
-                                <text id="Federal investment Tax Credit" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="14"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="32" y="141.9">Federal Investment Tax Credit</tspan>
-                                </text>
-                                <path d="M236 148H32V150H236V148Z" fill="#F1F2F2"
-                                    mask="url(#path-78-inside-2_3969_17638)" />
-                            </g>
-                            <g id="Row_2">
-                                <text id="State / Other Incentives" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="14"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="32" y="173.9">State / Other Incentives</tspan>
-                                </text>
-                            </g>
-                            <g id="Row_3">
-                                <text id="Net Investment After Incentives" fill="#D71920" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="14"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="32" y="211.9">Net Investment After Incentives</tspan>
-                                </text>
-                                <path d="M32 190H236V188H32V190Z" fill="#002E5D"
-                                    mask="url(#path-82-inside-3_3969_17638)" />
-                            </g>
+        <g id="Description_2" clip-path="url(#clip0_3969_17638)">
+          <g id="3">
+            <g id="ENERGY_Icon_SolarHouse_FullColor_New">
+              <g id="Icon/ medal">
+                <g id="Asset 4 2" clip-path="url(#clip1_3969_17638)">
+                  <g id="Layer 1">
+                    <g id="Group">
+                      <g id="Group_2">
+                        <path id="Vector" d="M508.129 221.293H499.015L491.945 228.479V238.524H516.365V229.705L508.129 221.293Z" fill="white"/>
+                        <g id="Group_3">
+                          <path id="Vector_2" d="M507.683 229.736L499.508 221.309L509.207 221.184L517.281 229.789L507.683 229.736Z" fill="#A9ABAC"/>
+                          <path id="Vector_3" d="M517.281 229.721H507.512L499.508 221.309H509.277L517.281 229.721Z" stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10"/>
+                          <path id="Vector_4" d="M501.65 230.102H496.766V238.293H501.65V230.102Z" fill="#D71920"/>
+                          <path id="Vector_5" d="M491.943 228.479V229.729H490.727L499.014 221.215L491.943 228.479ZM491.943 228.479V238.54H516.363V229.722" stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10"/>
+                          <path id="Vector_6" d="M513.986 231.553H507.609V236.165H513.986V231.553Z" fill="#A9ABAC" stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10"/>
+                          <path id="Vector_7" d="M510.867 231.416V236.165" stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10"/>
                         </g>
-                        <g id="Column_2">
-                            <g id="Header_3">
-                                <mask id="path-85-inside-4_3969_17638" fill="white">
-                                    <path d="M236 93H440V117H236V93Z" />
-                                </mask>
-                                <path d="M236 93H440V117H236V93Z" fill="white" />
-                                <text id="Token_TotalPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                    font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em">
-                                    <tspan x="382" y="110.6">$25,116</tspan>
-                                </text>
-                                <path d="M440 116H236V118H440V116Z" fill="#F1F2F2"
-                                    mask="url(#path-85-inside-4_3969_17638)" />
-                            </g>
-                            <g id="Row_4">
-                                <text id="Token_FedITC" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                    font-family="Poppins" font-size="14" letter-spacing="0.0112em">
-                                    <tspan x="386" y="141.9">-$7,535</tspan>
-                                </text>
-                                <path d="M440 148H236V150H440V148Z" fill="#F1F2F2"
-                                    mask="url(#path-88-inside-5_3969_17638)" />
-                            </g>
-                            <g id="Row_5">
-                                <text id="Token_OtherIncentives" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="14"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="389" y="173.9">-$2,154</tspan>
-                                </text>
-                            </g>
-                            <g id="Row_6">
-                                <text id="Token_CostAfterIncent" fill="#D71920" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="14"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="389" y="211.9">$15,427</tspan>
-                                </text>
-                                <path d="M236 190H440V188H236V190Z" fill="#002E5D"
-                                    mask="url(#path-92-inside-6_3969_17638)" />
-                            </g>
-                        </g>
+                        <path id="Vector_8" d="M490.984 229.464L491.709 228.74H491.945V229.728L490.984 229.788V229.464Z" fill="#000006"/>
+                      </g>
+                      <path id="Vector_9" d="M498.254 234.332H497.562V235.024H498.254V234.332Z" fill="#000006"/>
                     </g>
+                    <g id="Group_4">
+                      <path id="Vector_10" d="M514.232 228.088L507.617 228.172L502.312 222.632L509.042 222.625L514.232 228.088Z" fill="white"/>
+                      <path id="Vector_11" d="M504.695 225.148H511.53" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_12" d="M504.219 224.645H511.023" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_13" d="M503.734 224.139H510.543" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_14" d="M503.258 223.635H510.07" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_15" d="M502.781 223.131H509.599" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_16" d="M506.234 226.66H512.946" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_17" d="M505.75 226.156H512.442" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_18" d="M507.188 228.172H514.516" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_19" d="M507.188 227.668H513.926" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_20" d="M506.711 227.164H513.43" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_21" d="M505.273 225.652H511.971" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_22" d="M506.812 222.52L512.255 228.247" stroke="#0F7BB6" stroke-width="0.351968" stroke-miterlimit="10"/>
+                      <path id="Vector_23" d="M509.102 222.605L514.52 228.309" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_24" d="M504.508 222.52L509.95 228.247" stroke="#0F7BB6" stroke-width="0.351968" stroke-miterlimit="10"/>
+                      <path id="Vector_25" d="M502.312 222.549L507.725 228.245" stroke="#0F7BB6" stroke-width="0.351968" stroke-miterlimit="10"/>
+                      <path id="Vector_26" d="M501.977 222.611H509.371" stroke="#0F7BB6" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_27" d="M507.227 228.328H514.64" stroke="#A9ABAC" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_28" d="M501.797 222.416H509.452" stroke="#A9ABAC" stroke-width="0.263976" stroke-miterlimit="10"/>
+                      <path id="Vector_29" d="M509.109 222.389L514.704 228.277" stroke="#A9ABAC" stroke-width="0.175984" stroke-miterlimit="10"/>
+                      <path id="Vector_30" d="M501.586 222.301L507.569 228.587" stroke="#A9ABAC" stroke-width="0.351968" stroke-miterlimit="10"/>
+                    </g>
+                  </g>
                 </g>
+              </g>
             </g>
+            <g id="Built-In Energy Shingles">
+              <g id="Energy shingles">
+                <text id="7.12 kW Timberline Solar ES" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600" letter-spacing="0.0112em"><tspan x="528" y="228.7">7.12 kW Timberline Solar ES</tspan></text>
+                <text id="Add value to your home with a roof that reliably reduces your energy bills." fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="528" y="246">Add value to your home with a roof that </tspan><tspan x="528" y="261">reliably reduces your energy bills.</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="7-part">
+            <g id="House Icon_ New">
+              <g id="Layer 1_2">
+                <path id="Vector_31" d="M503.196 292.395L494.367 298.299V311.287H513.084V298.762" fill="white"/>
+                <g id="Clip path group">
+                  <mask id="mask0_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="493" y="298" width="22" height="16">
+                    <g id="clippath">
+                      <path id="Vector_32" d="M514.516 298.766H493.219V313.001H514.516V298.766Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask0_3969_17638)">
+                    <g id="Group_5">
+                      <path id="Vector_33" d="M495.73 299.469H493.914V312.295H513.809V310.591H495.73V299.469Z" fill="#626367"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_2">
+                  <mask id="mask1_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="503" y="292" width="16" height="20">
+                    <g id="clippath-1">
+                      <path id="Vector_34" d="M518.034 292.4H503.195V311.292H518.034V292.4Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask1_3969_17638)">
+                    <g id="Group_6">
+                      <path id="Vector_35" d="M507.495 293.102H503.891L512.025 298.445V310.591H513.785V299.469H517.327L507.495 293.102Z" fill="#626367"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_3">
+                  <mask id="mask2_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="489" y="290" width="20" height="12">
+                    <g id="clippath-2">
+                      <path id="Vector_36" d="M508.199 290.125H489.672V301.983H508.199V290.125Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask2_3969_17638)">
+                    <g id="Group_7">
+                      <path id="Vector_37" d="M503.979 290.828L490.367 299.58L491.272 301.284L493.888 299.468H495.704V298.444L503.888 293.1H507.492L503.979 290.828Z" fill="#626367"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_4">
+                  <mask id="mask3_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="513" y="298" width="6" height="4">
+                    <g id="clippath-3">
+                      <path id="Vector_38" d="M518.162 298.766H513.078V301.76H518.162V298.766Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask3_3969_17638)">
+                    <g id="Group_8">
+                      <path id="Vector_39" d="M517.33 299.469H513.789L516.286 301.061L517.464 299.553L517.33 299.469Z" fill="#626367"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_5">
+                  <mask id="mask4_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="489" y="293" width="9" height="7">
+                    <g id="clippath-4">
+                      <path id="Vector_40" d="M497.181 293.445H489.859V299.329H497.181V293.445Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask4_3969_17638)">
+                    <g id="Group_9">
+                      <path id="Vector_41" d="M495.834 294.143L490.555 297.678L491.191 298.628L496.47 295.093L495.834 294.143Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_6">
+                  <mask id="mask5_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="510" y="293" width="8" height="7">
+                    <g id="clippath-5">
+                      <path id="Vector_42" d="M517.931 293.445H510.609V299.329H517.931V293.445Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask5_3969_17638)">
+                    <g id="Group_10">
+                      <path id="Vector_43" d="M511.948 294.146L511.312 295.096L516.593 298.629L517.228 297.679L511.948 294.146Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_7">
+                  <mask id="mask6_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="489" y="293" width="6" height="5">
+                    <g id="clippath-6">
+                      <path id="Vector_44" d="M494.352 293.379H489.906V297.341H494.352V293.379Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask6_3969_17638)">
+                    <g id="Group_11">
+                      <path id="Vector_45" d="M493.024 294.082L490.617 295.693L491.253 296.643L493.66 295.032L493.024 294.082Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_8">
+                  <mask id="mask7_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="513" y="293" width="5" height="5">
+                    <g id="clippath-7">
+                      <path id="Vector_46" d="M517.982 293.379H513.508V297.383H517.982V293.379Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask7_3969_17638)">
+                    <g id="Group_12">
+                      <path id="Vector_47" d="M514.867 294.08L514.203 295.07L516.609 296.682L517.273 295.692L514.867 294.08Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_9">
+                  <mask id="mask8_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="489" y="284" width="19" height="12">
+                    <g id="clippath-8">
+                      <path id="Vector_48" d="M507.124 284.443H489.648V295.145H507.124V284.443Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask8_3969_17638)">
+                    <g id="Group_13">
+                      <path id="Vector_49" d="M504.011 285.161H503.99L503.983 285.146L490.344 293.372L490.989 294.445L503.99 286.612H506.417L504.011 285.161Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_10">
+                  <mask id="mask9_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="503" y="285" width="16" height="11">
+                    <g id="clippath-9">
+                      <path id="Vector_50" d="M518.354 285.904H503.305V295.147H518.354V285.904Z" fill="white"/>
+                    </g>
+                  </mask>
+                  <g mask="url(#mask9_3969_17638)">
+                    <g id="Group_14">
+                      <path id="Vector_51" d="M506.434 286.607H504.008L517.002 294.441L517.654 293.368L506.434 286.607Z" fill="#117BB6"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_15">
+                  <g id="Clip path group_11">
+                    <mask id="mask10_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="493" y="286" width="15" height="10">
+                      <g id="clippath-10">
+                        <path id="Vector_52" d="M507.169 286.705H493.102V295.352H507.169V286.705Z" fill="white"/>
+                      </g>
+                    </mask>
+                    <g mask="url(#mask10_3969_17638)">
+                      <g id="Group_16">
+                        <path id="Vector_53" d="M504.056 287.417H504.035L504.028 287.41L493.797 293.581L494.442 294.654L504.035 288.869H506.462L504.056 287.417Z" fill="#117BB6"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Clip path group_12">
+                    <mask id="mask11_3969_17638" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="503" y="288" width="12" height="8">
+                      <g id="clippath-11">
+                        <path id="Vector_54" d="M514.904 288.166H503.305V295.333H514.904V288.166Z" fill="white"/>
+                      </g>
+                    </mask>
+                    <g mask="url(#mask11_3969_17638)">
+                      <g id="Group_17">
+                        <path id="Vector_55" d="M506.434 288.867H504.008L513.559 294.625L514.204 293.552L506.434 288.867Z" fill="#117BB6"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <path id="Vector_56" d="M506.662 282.522L504.13 281L501.367 282.662L501.956 283.644L504.039 282.388L506.024 283.588L506.662 282.522Z" fill="#117BB6"/>
+                <path id="Vector_57" d="M504.005 283.039L507.96 285.43L507.301 286.496L503.984 284.491L500.492 286.594L499.805 285.543L504.005 283.039Z" fill="#117BB6"/>
+                <path id="Vector_58" d="M506.446 301.057H501.242V310.622H506.446V301.057Z" fill="#D72027"/>
+                <path id="Vector_59" d="M502.296 306.822C502.567 306.822 502.786 306.602 502.786 306.331C502.786 306.06 502.567 305.84 502.296 305.84C502.024 305.84 501.805 306.06 501.805 306.331C501.805 306.602 502.024 306.822 502.296 306.822Z" fill="#231F20"/>
+              </g>
+            </g>
+            <g id="Roofing System">
+              <g id="Content_2">
+                <text id="7-Part Solar Roofing System" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600" letter-spacing="0.0112em"><tspan x="528" y="295.7">7-Part Solar Roofing System</tspan></text>
+                <text id="Enjoy peace of mind with a roof that is built to last and is trusted by millions." fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="528" y="313">Enjoy peace of mind with a roof that is </tspan><tspan x="528" y="328">built to last and is trusted by millions.</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g id="4">
+            <g id="Illustration_Monitor">
+              <g id="Vector_60">
+                <path d="M493.29 360.821C493.29 358.234 495.228 356.107 497.71 355.857V357.869C496.316 358.107 495.254 359.338 495.254 360.821C495.254 361.467 495.456 362.066 495.799 362.555L494.399 363.978C493.706 363.118 493.29 362.019 493.29 360.821Z" fill="#D71920"/>
+                <path d="M496.494 363.26L495.093 364.683C495.94 365.387 497.022 365.809 498.201 365.809C499.38 365.809 500.462 365.387 501.309 364.683L499.908 363.26C499.427 363.609 498.837 363.814 498.201 363.814C497.565 363.814 496.975 363.609 496.494 363.26Z" fill="#D71920"/>
+                <path d="M500.603 362.555L502.003 363.978C502.696 363.118 503.112 362.019 503.112 360.821C503.112 358.234 501.174 356.107 498.692 355.857V357.869C500.085 358.107 501.147 359.338 501.147 360.821C501.147 361.467 500.946 362.066 500.603 362.555Z" fill="#D71920"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M497.823 355.73V357.966L497.729 357.982C496.389 358.211 495.368 359.394 495.368 360.821C495.368 361.442 495.562 362.018 495.892 362.488L495.947 362.567L494.39 364.149L494.311 364.05C493.602 363.171 493.177 362.046 493.177 360.821C493.177 358.175 495.159 355.999 497.699 355.742L497.823 355.73ZM498.579 355.73L498.703 355.742C501.242 355.999 503.225 358.175 503.225 360.821C503.225 362.046 502.8 363.171 502.091 364.05L502.012 364.149L500.455 362.567L500.51 362.488C500.84 362.018 501.034 361.442 501.034 360.821C501.034 359.394 500.013 358.211 498.673 357.982L498.579 357.966V355.73ZM497.596 355.985C495.233 356.287 493.404 358.337 493.404 360.821C493.404 361.945 493.778 362.981 494.408 363.805L495.652 362.541C495.329 362.049 495.141 361.457 495.141 360.821C495.141 359.314 496.196 358.058 497.596 357.773V355.985ZM498.805 355.985V357.773C500.206 358.058 501.261 359.314 501.261 360.821C501.261 361.457 501.072 362.049 500.749 362.541L501.994 363.805C502.623 362.981 502.998 361.945 502.998 360.821C502.998 358.337 501.169 356.287 498.805 355.985ZM496.481 363.11L496.56 363.167C497.023 363.502 497.589 363.699 498.201 363.699C498.813 363.699 499.379 363.502 499.842 363.167L499.921 363.11L501.477 364.692L501.381 364.772C500.515 365.492 499.407 365.924 498.201 365.924C496.994 365.924 495.887 365.492 495.021 364.772L494.924 364.692L496.481 363.11ZM496.507 363.409L495.263 364.673C496.075 365.313 497.094 365.694 498.201 365.694C499.308 365.694 500.327 365.313 501.139 364.673L499.895 363.409C499.41 363.737 498.827 363.929 498.201 363.929C497.575 363.929 496.992 363.737 496.507 363.409Z" fill="#101820"/>
+                <path d="M505.79 359.838H508.022V363.819H505.79V359.838Z" fill="#002E5D"/>
+                <path d="M505.79 364.814H508.022V365.809H505.79V364.814Z" fill="#002E5D"/>
+                <path d="M509.138 357.847H511.371V363.819H509.138V357.847Z" fill="#002E5D"/>
+                <path d="M512.487 355.857H514.719V363.819H512.487V355.857Z" fill="#002E5D"/>
+                <path d="M509.138 364.814H511.371V365.809H509.138V364.814Z" fill="#002E5D"/>
+                <path d="M512.487 364.814H514.719V365.809H512.487V364.814Z" fill="#002E5D"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M512.373 355.742H514.832V363.934H512.373V355.742ZM512.6 355.972V363.704H514.605V355.972H512.6ZM509.025 357.732H511.484V363.934H509.025V357.732ZM509.252 357.962V363.704H511.257V357.962H509.252ZM505.677 359.723H508.136V363.934H505.677V359.723ZM505.904 359.953V363.704H507.909V359.953H505.904ZM505.677 364.699H508.136V365.924H505.677V364.699ZM505.904 364.929V365.694H507.909V364.929H505.904ZM509.025 364.699H511.484V365.924H509.025V364.699ZM509.252 364.929V365.694H511.257V364.929H509.252ZM512.373 364.699H514.832V365.924H512.373V364.699ZM512.6 364.929V365.694H514.605V364.929H512.6Z" fill="#101820"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M489.719 353.143H518.29V370.514H506.862V373.409L509.719 373.409V374.857H498.29V373.409L501.147 373.409V370.514H489.719V353.143ZM491.147 354.59H516.862V367.619H491.147V354.59ZM504.004 369.971C504.399 369.971 504.719 369.647 504.719 369.247C504.719 368.848 504.399 368.524 504.004 368.524C503.61 368.524 503.29 368.848 503.29 369.247C503.29 369.647 503.61 369.971 504.004 369.971Z" fill="#D9D9D6"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M501.147 373.409L498.29 373.409V374.857H509.719V373.409L506.862 373.409V370.514H518.29V353.143H489.719V370.514H501.147V373.409ZM490.165 370.062H501.594V373.862L498.737 373.862V374.404H509.272V373.862L506.415 373.862V370.062H517.844V353.595H490.165V370.062ZM517.308 354.138V368.071H504.004H490.701V354.138H517.308ZM504.004 368.071C504.646 368.071 505.165 368.598 505.165 369.247C505.165 369.897 504.646 370.424 504.004 370.424C503.363 370.424 502.844 369.897 502.844 369.247C502.844 368.598 503.363 368.071 504.004 368.071ZM491.147 354.59H516.862V367.619H491.147V354.59ZM504.719 369.247C504.719 369.647 504.399 369.971 504.004 369.971C503.61 369.971 503.29 369.647 503.29 369.247C503.29 368.848 503.61 368.524 504.004 368.524C504.399 368.524 504.719 368.848 504.719 369.247Z" fill="#101820"/>
+              </g>
+            </g>
+            <g id="Monitoring Energy">
+              <text id="Energy Production Data" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600" letter-spacing="0.0112em"><tspan x="528" y="362.7">Energy Production Data </tspan></text>
+              <text id="See how much energy your Solar Roof is producing anytime, anywhere." fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="528" y="380">See how much energy your Solar Roof </tspan><tspan x="528" y="395">is producing anytime, anywhere.</tspan></text>
+            </g>
+          </g>
+          <g id="25 year">
+            <g id="Icon_Medal">
+              <g id="Vector_61">
+                <path d="M503.998 416.366H503.9C501.579 416.389 499.358 417.282 497.708 418.857C496.058 420.431 495.107 422.563 495.057 424.801C495.008 427.039 495.863 429.209 497.441 430.85C499.02 432.491 501.199 433.475 503.517 433.594C503.644 433.6 503.772 433.602 503.9 433.604H503.998C504.435 433.604 504.872 433.573 505.304 433.512C507.531 433.187 509.548 432.063 510.953 430.366C512.357 428.668 513.046 426.522 512.881 424.356C512.716 422.189 511.709 420.163 510.062 418.682C508.416 417.201 506.25 416.374 503.998 416.366Z" fill="#B2B2B5"/>
+                <path d="M510.723 430.665C509.326 432.207 507.406 433.217 505.306 433.514C504.874 433.576 504.437 433.607 504 433.607H503.902C503.774 433.607 503.646 433.607 503.519 433.597C501.196 433.479 499.014 432.49 497.436 430.842C497.381 430.785 497.327 430.724 497.275 430.665L493 442.817L497.463 442.045L500.964 446L504 435.985L507.038 445.998L510.539 442.043L515 442.817L510.723 430.665Z" fill="#0075B2"/>
+                <path d="M503.957 431.448C507.656 431.448 510.654 428.556 510.654 424.989C510.654 421.422 507.656 418.53 503.957 418.53C500.259 418.53 497.261 421.422 497.261 424.989C497.261 428.556 500.259 431.448 503.957 431.448Z" fill="white"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M502.88 420.835H505.738L504.31 424.184H506.76L501.86 430.093L503.289 425.76H501.246L502.88 420.835Z" fill="#FA121A"/>
+                <path d="M503.997 433.979H503.894C503.784 433.979 503.64 433.979 503.495 433.968C501.072 433.848 498.794 432.816 497.15 431.093C495.558 429.431 494.674 427.251 494.676 424.989C494.676 422.621 495.644 420.35 497.37 418.667C499.096 416.984 501.44 416.026 503.894 416H503.997C506.468 416.003 508.837 416.951 510.584 418.636C512.331 420.322 513.314 422.607 513.317 424.991C513.316 427.147 512.512 429.232 511.051 430.864C509.59 432.497 507.57 433.569 505.359 433.885C504.907 433.948 504.452 433.979 503.997 433.979ZM503.997 416.737H503.901C501.681 416.761 499.558 417.617 497.981 419.124C496.403 420.63 495.495 422.67 495.448 424.811C495.4 426.951 496.217 429.026 497.727 430.597C499.236 432.167 501.319 433.11 503.536 433.226C503.666 433.233 503.8 433.235 503.902 433.236H503.997C504.415 433.236 504.834 433.206 505.248 433.148C507.379 432.837 509.31 431.761 510.655 430.136C511.999 428.511 512.659 426.457 512.5 424.383C512.342 422.31 511.379 420.37 509.802 418.952C508.225 417.535 506.152 416.743 503.997 416.737ZM503.954 431.817C502.554 431.817 501.185 431.416 500.021 430.666C498.857 429.916 497.949 428.849 497.414 427.602C496.878 426.354 496.738 424.981 497.011 423.656C497.284 422.332 497.958 421.115 498.948 420.16C499.938 419.205 501.2 418.555 502.573 418.291C503.946 418.028 505.369 418.163 506.663 418.68C507.956 419.197 509.062 420.072 509.84 421.195C510.618 422.318 511.033 423.638 511.033 424.989C511.031 426.799 510.285 428.535 508.957 429.815C507.63 431.095 505.831 431.815 503.954 431.817ZM503.954 418.899C502.705 418.899 501.485 419.256 500.446 419.925C499.408 420.594 498.599 421.545 498.121 422.658C497.643 423.771 497.518 424.995 497.762 426.177C498.005 427.358 498.607 428.443 499.49 429.295C500.373 430.146 501.497 430.726 502.722 430.961C503.947 431.196 505.216 431.076 506.37 430.615C507.523 430.154 508.51 429.373 509.203 428.372C509.897 427.37 510.267 426.193 510.267 424.989C510.265 423.374 509.599 421.826 508.416 420.685C507.232 419.543 505.628 418.901 503.954 418.899Z" fill="#03111A"/>
+              </g>
+            </g>
+            <g id="Performance">
+              <text id="25-Year Performance Guarantee" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600" letter-spacing="0.0112em"><tspan x="528" y="429.7">25-Year Performance Guarantee</tspan></text>
+              <text id="Ensure the production of your roof with the purchase of the Solar Max Limited Warranty." fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="528" y="447">Ensure the production of your roof with the </tspan><tspan x="528" y="462">purchase of the Solar Max Limited Warranty.</tspan></text>
+            </g>
+          </g>
         </g>
-        <text id="Heading_2" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-            font-size="36" font-weight="600" letter-spacing="0.0112em">
-            <tspan x="32" y="67.1">Your Investment Options</tspan>
-        </text>
-        <text
-            id="While you may be able to apply the 30% Federal Tax Credit to your cash purchase or loan amount, GAF Energy does not provide tax or legal advice. You should consult with your tax advisor for more information. This proposal contains preliminary estimates and does not represent a binding agreement or obligation to the homeowner. This is not a guarantee, warranty, or representation regarding the production, performance, utility rate increases, workmanship, or any other data relating to Timberline Solar. This proposal is not an approval for installation or financing.&#226;&#128;&#168;*Monthly payment amount assumes a partial prepayment equal to 30% of principal prior to month 18 of loan term."
-            fill="#606366" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10"
-            letter-spacing="0.0112em">
-            <tspan x="32" y="533">While you may be able to apply the 30% Federal Tax Credit to your cash purchase or
-                loan amount, GAF Energy does not provide tax or legal </tspan>
-            <tspan x="32" y="546">advice. You should consult with your tax advisor for more information. This proposal
-                contains preliminary estimates and does not represent a </tspan>
-            <tspan x="32" y="559">binding agreement or obligation to the homeowner. This is not a guarantee, warranty,
-                or representation regarding the production, performance, </tspan>
-            <tspan x="32" y="572">utility rate increases, workmanship, or any other data relating to Timberline Solar.
-                This proposal is not an approval for installation or financing.&#x2028;</tspan>
-            <tspan x="32" y="585">*Monthly payment amount assumes a partial prepayment equal to 30% of principal prior
-                to month 18 of loan term.</tspan>
-        </text>
-        <g id="Let&#39;s make it official">
-            <g id="Text">
-                <text id="Let&#226;&#128;&#153;s make it official" fill="#002E5D" xml:space="preserve"
-                    style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-                    letter-spacing="0.0112em">
-                    <tspan x="32" y="276.4">Let&#x2019;s make it official</tspan>
-                </text>
-                <text id="Choose between an upfront investment or apply for financing" fill="#002E5D"
-                    xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
-                    letter-spacing="0.0112em">
-                    <tspan x="32" y="296.7">Choose between an upfront investment or apply for financing</tspan>
-                </text>
-            </g>
-            <g id="Monthly Investment">
-                <rect x="32.5" y="311.5" width="407" height="141" fill="white" />
-                <g id="Upfront purchase">
-                    <g id="Illustration + title section">
-                        <g id="Wallet Illustration">
-                            <g id="ENERGY_Icon_Wallet_FullColor">
-                                <path id="Vector_62"
-                                    d="M59.9591 348.443L59.927 348.068H66.0809L69.0316 343.883L60.4455 337.827L59.208 339.581L59.1408 338.783L54.6282 337.377L53.5926 340.386L53.3509 339.875L49.1581 339.939L49.1337 348.443H48.375V364.123H70.8089V348.443H59.9591Z"
-                                    fill="white" />
-                                <path id="Vector_63"
-                                    d="M59.8939 346.638C59.7472 346.544 59.6355 346.404 59.5759 346.239C59.5162 346.075 59.5119 345.896 59.5635 345.73L59.1749 345.459L59.4809 345.034L59.8586 345.298C60.1141 345.046 60.4706 345.024 60.8193 345.246L60.8789 345.284L60.5516 345.745L60.4982 345.711C60.4686 345.687 60.4341 345.67 60.3972 345.661C60.3602 345.652 60.3217 345.651 60.2844 345.658C60.247 345.665 60.2118 345.681 60.181 345.703C60.1503 345.726 60.1248 345.754 60.1065 345.788C60.0855 345.82 60.0713 345.856 60.0649 345.895C60.0586 345.933 60.0601 345.972 60.0694 346.009C60.0788 346.046 60.0957 346.082 60.1192 346.112C60.1426 346.143 60.1722 346.168 60.206 346.187C60.3161 346.267 60.4339 346.28 60.645 346.092C60.8187 345.915 61.0453 345.8 61.2905 345.763L64.9203 340.614L60.4843 337.465L52.8359 348.306L59.3845 348.448L60.5852 346.747C60.4706 346.791 60.3464 346.804 60.2251 346.785C60.1037 346.766 59.9895 346.715 59.8939 346.638Z"
-                                    fill="#B1B1B3" />
-                                <path id="Vector_64"
-                                    d="M62.5255 344.002C61.9022 343.563 61.1298 343.389 60.3782 343.519C59.6266 343.649 58.9574 344.072 58.5178 344.695C58.0782 345.318 57.9043 346.091 58.0342 346.842C58.1642 347.594 58.5874 348.263 59.2108 348.703C59.2689 348.744 59.3301 348.782 59.3897 348.819H62.3481C62.7583 348.573 63.1005 348.228 63.3439 347.815C63.5872 347.403 63.7239 346.937 63.7415 346.459C63.7591 345.98 63.6572 345.505 63.4448 345.076C63.2325 344.647 62.9165 344.278 62.5255 344.002ZM62.2762 347.644L61.8968 347.377C61.7473 347.505 61.5591 347.58 61.362 347.59C61.1649 347.599 60.9704 347.543 60.8093 347.429L60.7466 347.39L61.0662 346.931L61.1197 346.961C61.2727 347.048 61.4976 347.103 61.6582 346.876C61.7791 346.705 61.7331 346.518 61.5343 346.379C61.3981 346.283 61.2514 346.265 60.9821 346.494C60.5783 346.838 60.2433 346.881 59.893 346.633C59.7463 346.539 59.6346 346.398 59.575 346.234C59.5153 346.07 59.511 345.891 59.5626 345.725L59.174 345.46L59.48 345.035L59.8577 345.299C60.1132 345.047 60.4697 345.026 60.8184 345.247L60.878 345.286L60.5507 345.746L60.4972 345.712C60.4677 345.688 60.4332 345.671 60.3963 345.662C60.3593 345.653 60.3208 345.652 60.2835 345.659C60.2461 345.666 60.2109 345.682 60.1801 345.704C60.1494 345.727 60.1239 345.755 60.1056 345.789C60.0846 345.821 60.0704 345.858 60.064 345.896C60.0577 345.934 60.0592 345.973 60.0685 346.01C60.0778 346.047 60.0948 346.083 60.1183 346.113C60.1417 346.144 60.1713 346.169 60.2051 346.188C60.3152 346.268 60.433 346.281 60.6441 346.093C61.0739 345.709 61.4562 345.659 61.8463 345.94C62.2364 346.222 62.3496 346.592 62.1936 346.965L62.5699 347.231L62.2762 347.644Z"
-                                    fill="#D71920" />
-                                <path id="Vector_65"
-                                    d="M50.4918 348.069H49.5144L49.5358 340.698L52.1637 340.652L52.4147 339.898L48.7893 339.96L48.7648 348.077H48V364.499H71.1835V348.069H66.9985L70.0762 343.703L60.2648 336.783L52.3105 348.069H51.2841L54.5959 338.151L57.6812 339.113L58.1401 338.469L54.1218 337.216M60.456 337.828L69.042 343.884L66.0914 348.069H53.233L60.456 337.828ZM70.4448 363.75H48.7541V348.819H70.4387L70.4448 363.75Z"
-                                    fill="#101820" />
-                                <path id="Vector_66"
-                                    d="M71.9977 353.707H63.6549C62.9825 353.709 62.3382 353.977 61.8627 354.453C61.3873 354.928 61.1192 355.572 61.1172 356.245V356.321C61.1192 356.994 61.3873 357.638 61.8627 358.113C62.3382 358.589 62.9825 358.857 63.6549 358.859H71.9977V353.707Z"
-                                    fill="#2774AE" />
-                                <path id="Vector_67"
-                                    d="M63.808 357.512C64.4872 357.512 65.0378 356.962 65.0378 356.283C65.0378 355.603 64.4872 355.053 63.808 355.053C63.1288 355.053 62.5781 355.603 62.5781 356.283C62.5781 356.962 63.1288 357.512 63.808 357.512Z"
-                                    fill="white" />
-                                <path id="Vector_68"
-                                    d="M63.8077 357.887C63.4903 357.887 63.1801 357.793 62.9162 357.617C62.6523 357.44 62.4467 357.19 62.3252 356.896C62.2038 356.603 62.1721 356.281 62.234 355.969C62.2959 355.658 62.4486 355.372 62.673 355.148C62.8974 354.923 63.1833 354.77 63.4946 354.709C63.8059 354.647 64.1286 354.678 64.4218 354.8C64.715 354.921 64.9655 355.127 65.1418 355.391C65.3181 355.655 65.4124 355.965 65.4124 356.282C65.4124 356.708 65.2433 357.116 64.9424 357.417C64.6415 357.718 64.2333 357.887 63.8077 357.887ZM63.8077 355.427C63.6386 355.427 63.4733 355.477 63.3327 355.571C63.192 355.665 63.0825 355.799 63.0178 355.955C62.9531 356.111 62.9361 356.283 62.9691 356.449C63.0021 356.615 63.0834 356.767 63.203 356.887C63.3226 357.007 63.475 357.088 63.6408 357.121C63.8067 357.154 63.9787 357.137 64.135 357.072C64.2912 357.008 64.4246 356.898 64.5186 356.757C64.6126 356.617 64.6628 356.451 64.6628 356.282C64.6624 356.056 64.5722 355.838 64.4119 355.678C64.2517 355.518 64.0344 355.428 63.8077 355.427Z"
-                                    fill="#101820" />
-                            </g>
-                        </g>
-                        <g id="Amount">
-                            <text id="Upfront" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em">
-                                <tspan x="80" y="345.5">Upfront </tspan>
-                            </text>
-                            <text id="Purchase" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em">
-                                <tspan x="80" y="360.5">Purchase</tspan>
-                            </text>
-                        </g>
-                    </g>
-                    <g id="Monthly price">
-                        <text id="Token_TotalPrice_2" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                            font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em">
-                            <tspan x="48" y="401.9">$25,116</tspan>
-                        </text>
-                    </g>
-                </g>
-                <rect id="Rectangle 365" x="150" y="340" width="1" height="84" fill="#D71920" />
-                <g id="Upfront purchase_2">
-                    <g id="Illustration + Amount">
-                        <g id="ENERGY_Icon_Calendar_FullColor">
-                            <path id="Vector_69"
-                                d="M168.656 342.389V343.849H189.54V357.437H191.001V342.395V342.389H168.656Z"
-                                fill="#2774AE" />
-                            <path id="Vector_70" d="M170.828 357.417H167V344.699H188.493V361.2H170.828V357.417Z"
-                                fill="white" />
-                            <path id="Vector_71" d="M188.496 344.805H167.461V348H188.496V344.805Z" fill="#B1B1B3" />
-                            <path id="Vector_72" d="M167 357.416H170.828V361.199L167 357.416Z" fill="#B1B1B3" />
-                            <path id="Vector_73" d="M172.275 349.463H170.906V350.832H172.275V349.463Z" fill="#D71920" />
-                            <path id="Vector_74" d="M175.463 349.463H174.094V350.832H175.463V349.463Z" fill="#D71920" />
-                            <path id="Vector_75" d="M178.642 349.463H177.273V350.832H178.642V349.463Z" fill="#D71920" />
-                            <path id="Vector_76" d="M181.83 349.463H180.461V350.832H181.83V349.463Z" fill="#D71920" />
-                            <path id="Vector_77" d="M185.017 349.463H183.648V350.832H185.017V349.463Z" fill="#D71920" />
-                            <path id="Vector_78" d="M172.275 352.346H170.906V353.714H172.275V352.346Z" fill="#D71920" />
-                            <path id="Vector_79" d="M175.463 352.346H174.094V353.714H175.463V352.346Z" fill="#D71920" />
-                            <path id="Vector_80" d="M178.642 352.346H177.273V353.714H178.642V352.346Z" fill="#D71920" />
-                            <path id="Vector_81" d="M181.83 352.346H180.461V353.714H181.83V352.346Z" fill="#D71920" />
-                            <path id="Vector_82" d="M185.017 352.346H183.648V353.714H185.017V352.346Z" fill="#D71920" />
-                            <path id="Vector_83" d="M172.275 355.229H170.906V356.597H172.275V355.229Z" fill="#D71920" />
-                            <path id="Vector_84" d="M175.377 355.229H174.008V356.597H175.377V355.229Z" fill="#D71920" />
-                            <path id="Vector_85" d="M178.642 355.229H177.273V356.597H178.642V355.229Z" fill="#D71920" />
-                            <path id="Vector_86" d="M181.916 355.229H180.547V356.597H181.916V355.229Z" fill="#D71920" />
-                            <path id="Vector_87" d="M185.017 355.229H183.648V356.597H185.017V355.229Z" fill="#D71920" />
-                            <path id="Vector_88"
-                                d="M182.279 344.427C182.205 344.195 182.187 343.948 182.225 343.708C182.264 343.467 182.358 343.238 182.501 343.041C182.643 342.843 182.83 342.681 183.046 342.568C183.262 342.455 183.502 342.394 183.745 342.39H185.247C184.941 342.101 184.558 341.908 184.144 341.835C183.73 341.762 183.303 341.812 182.918 341.979C182.532 342.146 182.203 342.422 181.973 342.774C181.742 343.125 181.62 343.536 181.62 343.957C181.62 344.117 181.638 344.278 181.673 344.435H176.452C176.377 344.199 176.358 343.95 176.397 343.706C176.437 343.462 176.533 343.231 176.678 343.032C176.824 342.832 177.014 342.67 177.234 342.558C177.454 342.446 177.697 342.388 177.944 342.387H179.417C179.111 342.1 178.728 341.908 178.314 341.836C177.901 341.764 177.475 341.814 177.09 341.981C176.705 342.147 176.377 342.423 176.147 342.774C175.916 343.125 175.794 343.536 175.794 343.956C175.794 344.116 175.812 344.276 175.847 344.433H170.83C170.757 344.2 170.739 343.952 170.778 343.71C170.817 343.468 170.913 343.238 171.057 343.04C171.201 342.842 171.39 342.68 171.608 342.568C171.826 342.456 172.067 342.396 172.313 342.394H173.798C173.493 342.106 173.109 341.913 172.695 341.84C172.281 341.767 171.855 341.817 171.469 341.984C171.083 342.151 170.755 342.427 170.524 342.778C170.294 343.13 170.171 343.541 170.172 343.962C170.172 344.122 170.19 344.282 170.225 344.439H167V356.517H167.585V345.013H170.452C170.619 345.311 170.855 345.565 171.14 345.753C171.426 345.942 171.752 346.06 172.092 346.097C172.149 346.149 172.221 346.184 172.298 346.196C172.375 346.208 172.454 346.198 172.525 346.166C172.596 346.135 172.657 346.083 172.699 346.018C172.741 345.953 172.764 345.876 172.764 345.799C172.764 345.721 172.741 345.644 172.699 345.579C172.657 345.514 172.596 345.462 172.525 345.431C172.454 345.399 172.375 345.389 172.298 345.401C172.221 345.413 172.149 345.448 172.092 345.5C171.735 345.447 171.408 345.273 171.165 345.007H176.07C176.239 345.305 176.476 345.559 176.762 345.748C177.048 345.936 177.375 346.054 177.716 346.091C177.774 346.143 177.845 346.178 177.922 346.19C177.999 346.202 178.078 346.192 178.149 346.16C178.22 346.129 178.281 346.077 178.323 346.012C178.366 345.947 178.388 345.87 178.388 345.793C178.388 345.715 178.366 345.638 178.323 345.573C178.281 345.508 178.22 345.456 178.149 345.425C178.078 345.393 177.999 345.383 177.922 345.395C177.845 345.407 177.774 345.442 177.716 345.494C177.36 345.441 177.032 345.267 176.789 345.001H181.896C182.064 345.299 182.301 345.554 182.587 345.742C182.873 345.931 183.2 346.049 183.541 346.085C183.599 346.137 183.671 346.172 183.747 346.184C183.824 346.196 183.903 346.186 183.974 346.154C184.045 346.123 184.106 346.071 184.148 346.006C184.191 345.941 184.213 345.864 184.213 345.787C184.213 345.709 184.191 345.632 184.148 345.567C184.106 345.502 184.045 345.45 183.974 345.419C183.903 345.387 183.824 345.377 183.747 345.389C183.671 345.401 183.599 345.436 183.541 345.488C183.185 345.435 182.857 345.261 182.614 344.995H188.347V360.614H171.816V361.199H188.933V344.427H182.279Z"
-                                fill="#101820" />
-                        </g>
-                        <g id="Amount_2">
-                            <text id="Financed" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em">
-                                <tspan x="199" y="355">Financed</tspan>
-                            </text>
-                            <g id="Lender logo">
-                                <rect id="image 95" x="310" y="342" width="89" height="16" fill="url(#pattern0)" />
-                            </g>
-                        </g>
-                    </g>
-                    <g id="Info_2">
-                        <g id="Monthly payment">
-                            <text id="Token_MonthlyPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em">
-                                <tspan x="167" y="400.9">$179</tspan>
-                            </text>
-                            <text id="Token_MonthlyPrice_2" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                font-family="Poppins" font-size="10" letter-spacing="0.0112em">
-                                <tspan x="167" y="421.5">Monthly payment</tspan>
-                            </text>
-                        </g>
-                        <g id="Body">
-                            <g id="Token_APR">
-                                <rect id="Rectangle 301" x="273" y="381" width="6" height="6" fill="#D71920" />
-                                <text id="Token_APR_2" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                    font-family="Poppins" font-size="10" letter-spacing="0.0112em">
-                                    <tspan x="287" y="387.5">10.59% APR</tspan>
-                                </text>
-                            </g>
-                            <g id="Token_Term">
-                                <rect id="Rectangle 301_2" x="273" y="398" width="6" height="6" fill="#D71920" />
-                                <text id="24-Year Term" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-                                    font-family="Poppins" font-size="10" letter-spacing="0.0112em">
-                                    <tspan x="287" y="404.5">24-Year Term</tspan>
-                                </text>
-                            </g>
-                            <g id="Frame 1301">
-                                <rect id="Rectangle 301_3" x="273" y="415" width="6" height="6" fill="#D71920" />
-                                <text id="No Prepayment Penalty" fill="#002E5D" xml:space="preserve"
-                                    style="white-space: pre" font-family="Poppins" font-size="10"
-                                    letter-spacing="0.0112em">
-                                    <tspan x="287" y="421.5">No Prepayment Penalty</tspan>
-                                </text>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-                <rect x="32.5" y="311.5" width="407" height="141" stroke="#101820" />
-            </g>
-        </g>
-        <text id="Token_UtilityCompany" fill="#606366" xml:space="preserve" style="white-space: pre"
-            font-family="Poppins" font-size="10" letter-spacing="0.0112em">
-            <tspan x="32" y="474">Utility Company: New Smyrna Beach Utilities; Current Rate plan: RS-4 Residential
-            </tspan>
-            <tspan x="32" y="489">Annual; Utility Escalation Rate Used: 1.8%; Annual Utility Bill: $1,195</tspan>
-        </text>
+      </g>
     </g>
-    <defs>
-        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-            <use xlink:href="#image0_3969_17638" transform="matrix(0.00311526 0 0 0.0173287 0 -0.00253115)" />
-        </pattern>
-        <clipPath id="clip0_3969_17638">
-            <rect width="264" height="252" fill="white" transform="translate(488 214)" />
-        </clipPath>
-        <clipPath id="clip1_3969_17638">
-            <rect width="28" height="17.8483" fill="white" transform="translate(490 221)" />
-        </clipPath>
-        <image id="image0_3969_17638" data-name="image.png" width="321" height="58"
-            xlink:href="data:image/png;base64,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" />
-    </defs>
+    <g id="What You Invest">
+      <g id="Upfront investment">
+        <g id="Info">
+          <g id="Table">
+            <g id="Column">
+              <g id="Header_2">
+                <mask id="path-75-inside-1_3969_17638" fill="white">
+                  <path d="M32 93H236V117H32V93Z"/>
+                </mask>
+                <path d="M32 93H236V117H32V93Z" fill="white"/>
+                <text id="What you pay" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="32" y="110.6">What you pay</tspan></text>
+                <path d="M236 116H32V118H236V116Z" fill="#F1F2F2" mask="url(#path-75-inside-1_3969_17638)"/>
+              </g>
+              <g id="Row">
+                <text id="Federal investment Tax Credit" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="141.9">Federal Investment Tax Credit</tspan></text>
+                <path d="M236 148H32V150H236V148Z" fill="#F1F2F2" mask="url(#path-78-inside-2_3969_17638)"/>
+              </g>
+              <g id="Row_2">
+                <text id="State / Other Incentives" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="173.9">State / Other Incentives</tspan></text>
+              </g>
+              <g id="Row_3">
+                <text id="Net Investment After Incentives" fill="#D71920" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="211.9">Net Investment After Incentives</tspan></text>
+                <path d="M32 190H236V188H32V190Z" fill="#002E5D" mask="url(#path-82-inside-3_3969_17638)"/>
+              </g>
+            </g>
+            <g id="Column_2">
+              <g id="Header_3">
+                <mask id="path-85-inside-4_3969_17638" fill="white">
+                  <path d="M236 93H440V117H236V93Z"/>
+                </mask>
+                <path d="M236 93H440V117H236V93Z" fill="white"/>
+                <text id="Token_TotalPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="373" y="110.6">$45,320</tspan></text>
+                <path d="M440 116H236V118H440V116Z" fill="#F1F2F2" mask="url(#path-85-inside-4_3969_17638)"/>
+              </g>
+              <g id="Row_4">
+                <text id="Token_FedITC" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="385" y="141.9">-$9,825</tspan></text>
+                <path d="M440 148H236V150H440V148Z" fill="#F1F2F2" mask="url(#path-88-inside-5_3969_17638)"/>
+              </g>
+              <g id="Row_5">
+                <text id="Token_OtherIncentives" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="389" y="173.9">-$2,154</tspan></text>
+              </g>
+              <g id="Row_6">
+                <text id="Token_CostAfterIncent" fill="#D71920" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="389" y="211.9">$33,341</tspan></text>
+                <path d="M236 190H440V188H236V190Z" fill="#002E5D" mask="url(#path-92-inside-6_3969_17638)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Heading_2" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="36" font-weight="600" letter-spacing="0.0112em"><tspan x="32" y="67.1">Your Investment Options</tspan></text>
+    <text id="While you may be able to apply the 30% Federal Tax Credit to your cash purchase or loan amount, GAF Energy does not provide tax or legal advice. You should consult with your tax advisor for more information. This proposal contains preliminary estimates and does not represent a binding agreement or obligation to the homeowner. This is not a guarantee, warranty, or representation regarding the production, performance, utility rate increases, workmanship, or any other data relating to Timberline Solar. This proposal is not an approval for installation or financing.&#226;&#128;&#168;*Monthly payment amount assumes a partial prepayment equal to 30% of principal prior to month 18 of loan term." fill="#606366" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="32" y="533">While you may be able to apply the 30% Federal Tax Credit to your cash purchase or loan amount, GAF Energy does not provide tax or legal </tspan><tspan x="32" y="546">advice. You should consult with your tax advisor for more information. This proposal contains preliminary estimates and does not represent a </tspan><tspan x="32" y="559">binding agreement or obligation to the homeowner. This is not a guarantee, warranty, or representation regarding the production, performance, </tspan><tspan x="32" y="572">utility rate increases, workmanship, or any other data relating to Timberline Solar. This proposal is not an approval for installation or financing.&#x2028;</tspan><tspan x="32" y="585">*Monthly payment amount assumes a partial prepayment equal to 30% of principal prior to month 18 of loan term.</tspan></text>
+    <g id="Let&#39;s make it official">
+      <g id="Text">
+        <text id="Let&#226;&#128;&#153;s make it official" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600" letter-spacing="0.0112em"><tspan x="32" y="276.4">Let&#x2019;s make it official</tspan></text>
+        <text id="Choose between an upfront investment or apply for financing" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600" letter-spacing="0.0112em"><tspan x="32" y="296.7">Choose between an upfront investment or apply for financing</tspan></text>
+      </g>
+      <g id="Monthly Investment">
+        <rect x="32.5" y="311.5" width="407" height="141" fill="white"/>
+        <g id="Upfront purchase">
+          <g id="Illustration + title section">
+            <g id="Wallet Illustration">
+              <g id="ENERGY_Icon_Wallet_FullColor">
+                <path id="Vector_62" d="M59.9591 348.443L59.927 348.068H66.0809L69.0316 343.883L60.4455 337.827L59.208 339.581L59.1408 338.783L54.6282 337.377L53.5926 340.386L53.3509 339.875L49.1581 339.939L49.1337 348.443H48.375V364.123H70.8089V348.443H59.9591Z" fill="white"/>
+                <path id="Vector_63" d="M59.8939 346.638C59.7472 346.544 59.6355 346.404 59.5759 346.239C59.5162 346.075 59.5119 345.896 59.5635 345.73L59.1749 345.459L59.4809 345.034L59.8586 345.298C60.1141 345.046 60.4706 345.024 60.8193 345.246L60.8789 345.284L60.5516 345.745L60.4982 345.711C60.4686 345.687 60.4341 345.67 60.3972 345.661C60.3602 345.652 60.3217 345.651 60.2844 345.658C60.247 345.665 60.2118 345.681 60.181 345.703C60.1503 345.726 60.1248 345.754 60.1065 345.788C60.0855 345.82 60.0713 345.856 60.0649 345.895C60.0586 345.933 60.0601 345.972 60.0694 346.009C60.0788 346.046 60.0957 346.082 60.1192 346.112C60.1426 346.143 60.1722 346.168 60.206 346.187C60.3161 346.267 60.4339 346.28 60.645 346.092C60.8187 345.915 61.0453 345.8 61.2905 345.763L64.9203 340.614L60.4843 337.465L52.8359 348.306L59.3845 348.448L60.5852 346.747C60.4706 346.791 60.3464 346.804 60.2251 346.785C60.1037 346.766 59.9895 346.715 59.8939 346.638Z" fill="#B1B1B3"/>
+                <path id="Vector_64" d="M62.5255 344.002C61.9022 343.563 61.1298 343.389 60.3782 343.519C59.6266 343.649 58.9574 344.072 58.5178 344.695C58.0782 345.318 57.9043 346.091 58.0342 346.842C58.1642 347.594 58.5874 348.263 59.2108 348.703C59.2689 348.744 59.3301 348.782 59.3897 348.819H62.3481C62.7583 348.573 63.1005 348.228 63.3439 347.815C63.5872 347.403 63.7239 346.937 63.7415 346.459C63.7591 345.98 63.6572 345.505 63.4448 345.076C63.2325 344.647 62.9165 344.278 62.5255 344.002ZM62.2762 347.644L61.8968 347.377C61.7473 347.505 61.5591 347.58 61.362 347.59C61.1649 347.599 60.9704 347.543 60.8093 347.429L60.7466 347.39L61.0662 346.931L61.1197 346.961C61.2727 347.048 61.4976 347.103 61.6582 346.876C61.7791 346.705 61.7331 346.518 61.5343 346.379C61.3981 346.283 61.2514 346.265 60.9821 346.494C60.5783 346.838 60.2433 346.881 59.893 346.633C59.7463 346.539 59.6346 346.398 59.575 346.234C59.5153 346.07 59.511 345.891 59.5626 345.725L59.174 345.46L59.48 345.035L59.8577 345.299C60.1132 345.047 60.4697 345.026 60.8184 345.247L60.878 345.286L60.5507 345.746L60.4972 345.712C60.4677 345.688 60.4332 345.671 60.3963 345.662C60.3593 345.653 60.3208 345.652 60.2835 345.659C60.2461 345.666 60.2109 345.682 60.1801 345.704C60.1494 345.727 60.1239 345.755 60.1056 345.789C60.0846 345.821 60.0704 345.858 60.064 345.896C60.0577 345.934 60.0592 345.973 60.0685 346.01C60.0778 346.047 60.0948 346.083 60.1183 346.113C60.1417 346.144 60.1713 346.169 60.2051 346.188C60.3152 346.268 60.433 346.281 60.6441 346.093C61.0739 345.709 61.4562 345.659 61.8463 345.94C62.2364 346.222 62.3496 346.592 62.1936 346.965L62.5699 347.231L62.2762 347.644Z" fill="#D71920"/>
+                <path id="Vector_65" d="M50.4918 348.069H49.5144L49.5358 340.698L52.1637 340.652L52.4147 339.898L48.7893 339.96L48.7648 348.077H48V364.499H71.1835V348.069H66.9985L70.0762 343.703L60.2648 336.783L52.3105 348.069H51.2841L54.5959 338.151L57.6812 339.113L58.1401 338.469L54.1218 337.216M60.456 337.828L69.042 343.884L66.0914 348.069H53.233L60.456 337.828ZM70.4448 363.75H48.7541V348.819H70.4387L70.4448 363.75Z" fill="#101820"/>
+                <path id="Vector_66" d="M71.9977 353.707H63.6549C62.9825 353.709 62.3382 353.977 61.8627 354.453C61.3873 354.928 61.1192 355.572 61.1172 356.245V356.321C61.1192 356.994 61.3873 357.638 61.8627 358.113C62.3382 358.589 62.9825 358.857 63.6549 358.859H71.9977V353.707Z" fill="#2774AE"/>
+                <path id="Vector_67" d="M63.808 357.512C64.4872 357.512 65.0378 356.962 65.0378 356.283C65.0378 355.603 64.4872 355.053 63.808 355.053C63.1288 355.053 62.5781 355.603 62.5781 356.283C62.5781 356.962 63.1288 357.512 63.808 357.512Z" fill="white"/>
+                <path id="Vector_68" d="M63.8077 357.887C63.4903 357.887 63.1801 357.793 62.9162 357.617C62.6523 357.44 62.4467 357.19 62.3252 356.896C62.2038 356.603 62.1721 356.281 62.234 355.969C62.2959 355.658 62.4486 355.372 62.673 355.148C62.8974 354.923 63.1833 354.77 63.4946 354.709C63.8059 354.647 64.1286 354.678 64.4218 354.8C64.715 354.921 64.9655 355.127 65.1418 355.391C65.3181 355.655 65.4124 355.965 65.4124 356.282C65.4124 356.708 65.2433 357.116 64.9424 357.417C64.6415 357.718 64.2333 357.887 63.8077 357.887ZM63.8077 355.427C63.6386 355.427 63.4733 355.477 63.3327 355.571C63.192 355.665 63.0825 355.799 63.0178 355.955C62.9531 356.111 62.9361 356.283 62.9691 356.449C63.0021 356.615 63.0834 356.767 63.203 356.887C63.3226 357.007 63.475 357.088 63.6408 357.121C63.8067 357.154 63.9787 357.137 64.135 357.072C64.2912 357.008 64.4246 356.898 64.5186 356.757C64.6126 356.617 64.6628 356.451 64.6628 356.282C64.6624 356.056 64.5722 355.838 64.4119 355.678C64.2517 355.518 64.0344 355.428 63.8077 355.427Z" fill="#101820"/>
+              </g>
+            </g>
+            <g id="Amount">
+              <text id="Upfront" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em"><tspan x="80" y="345.5">Upfront </tspan></text>
+              <text id="Purchase" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em"><tspan x="80" y="360.5">Purchase</tspan></text>
+            </g>
+          </g>
+          <g id="Monthly price">
+            <text id="Token_TotalPrice_2" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em"><tspan x="48" y="401.9">$45,320</tspan></text>
+          </g>
+        </g>
+        <rect id="Rectangle 365" x="163" y="340" width="1" height="84" fill="#D71920"/>
+        <g id="Upfront purchase_2">
+          <g id="Illustration + Amount">
+            <g id="ENERGY_Icon_Calendar_FullColor">
+              <path id="Vector_69" d="M181.656 342.389V343.849H202.54V357.437H204.001V342.395V342.389H181.656Z" fill="#2774AE"/>
+              <path id="Vector_70" d="M183.828 357.417H180V344.699H201.493V361.2H183.828V357.417Z" fill="white"/>
+              <path id="Vector_71" d="M201.496 344.805H180.461V348H201.496V344.805Z" fill="#B1B1B3"/>
+              <path id="Vector_72" d="M180 357.416H183.828V361.199L180 357.416Z" fill="#B1B1B3"/>
+              <path id="Vector_73" d="M185.275 349.463H183.906V350.832H185.275V349.463Z" fill="#D71920"/>
+              <path id="Vector_74" d="M188.463 349.463H187.094V350.832H188.463V349.463Z" fill="#D71920"/>
+              <path id="Vector_75" d="M191.642 349.463H190.273V350.832H191.642V349.463Z" fill="#D71920"/>
+              <path id="Vector_76" d="M194.83 349.463H193.461V350.832H194.83V349.463Z" fill="#D71920"/>
+              <path id="Vector_77" d="M198.017 349.463H196.648V350.832H198.017V349.463Z" fill="#D71920"/>
+              <path id="Vector_78" d="M185.275 352.346H183.906V353.714H185.275V352.346Z" fill="#D71920"/>
+              <path id="Vector_79" d="M188.463 352.346H187.094V353.714H188.463V352.346Z" fill="#D71920"/>
+              <path id="Vector_80" d="M191.642 352.346H190.273V353.714H191.642V352.346Z" fill="#D71920"/>
+              <path id="Vector_81" d="M194.83 352.346H193.461V353.714H194.83V352.346Z" fill="#D71920"/>
+              <path id="Vector_82" d="M198.017 352.346H196.648V353.714H198.017V352.346Z" fill="#D71920"/>
+              <path id="Vector_83" d="M185.275 355.229H183.906V356.597H185.275V355.229Z" fill="#D71920"/>
+              <path id="Vector_84" d="M188.377 355.229H187.008V356.597H188.377V355.229Z" fill="#D71920"/>
+              <path id="Vector_85" d="M191.642 355.229H190.273V356.597H191.642V355.229Z" fill="#D71920"/>
+              <path id="Vector_86" d="M194.916 355.229H193.547V356.597H194.916V355.229Z" fill="#D71920"/>
+              <path id="Vector_87" d="M198.017 355.229H196.648V356.597H198.017V355.229Z" fill="#D71920"/>
+              <path id="Vector_88" d="M195.279 344.427C195.205 344.195 195.187 343.948 195.225 343.708C195.264 343.467 195.358 343.238 195.501 343.041C195.643 342.843 195.83 342.681 196.046 342.568C196.262 342.455 196.502 342.394 196.745 342.39H198.247C197.941 342.101 197.558 341.908 197.144 341.835C196.73 341.762 196.303 341.812 195.918 341.979C195.532 342.146 195.203 342.422 194.973 342.774C194.742 343.125 194.62 343.536 194.62 343.957C194.62 344.117 194.638 344.278 194.673 344.435H189.452C189.377 344.199 189.358 343.95 189.397 343.706C189.437 343.462 189.533 343.231 189.678 343.032C189.824 342.832 190.014 342.67 190.234 342.558C190.454 342.446 190.697 342.388 190.944 342.387H192.417C192.111 342.1 191.728 341.908 191.314 341.836C190.901 341.764 190.475 341.814 190.09 341.981C189.705 342.147 189.377 342.423 189.147 342.774C188.916 343.125 188.794 343.536 188.794 343.956C188.794 344.116 188.812 344.276 188.847 344.433H183.83C183.757 344.2 183.739 343.952 183.778 343.71C183.817 343.468 183.913 343.238 184.057 343.04C184.201 342.842 184.39 342.68 184.608 342.568C184.826 342.456 185.067 342.396 185.313 342.394H186.798C186.493 342.106 186.109 341.913 185.695 341.84C185.281 341.767 184.855 341.817 184.469 341.984C184.083 342.151 183.755 342.427 183.524 342.778C183.294 343.13 183.171 343.541 183.172 343.962C183.172 344.122 183.19 344.282 183.225 344.439H180V356.517H180.585V345.013H183.452C183.619 345.311 183.855 345.565 184.14 345.753C184.426 345.942 184.752 346.06 185.092 346.097C185.149 346.149 185.221 346.184 185.298 346.196C185.375 346.208 185.454 346.198 185.525 346.166C185.596 346.135 185.657 346.083 185.699 346.018C185.741 345.953 185.764 345.876 185.764 345.799C185.764 345.721 185.741 345.644 185.699 345.579C185.657 345.514 185.596 345.462 185.525 345.431C185.454 345.399 185.375 345.389 185.298 345.401C185.221 345.413 185.149 345.448 185.092 345.5C184.735 345.447 184.408 345.273 184.165 345.007H189.07C189.239 345.305 189.476 345.559 189.762 345.748C190.048 345.936 190.375 346.054 190.716 346.091C190.774 346.143 190.845 346.178 190.922 346.19C190.999 346.202 191.078 346.192 191.149 346.16C191.22 346.129 191.281 346.077 191.323 346.012C191.366 345.947 191.388 345.87 191.388 345.793C191.388 345.715 191.366 345.638 191.323 345.573C191.281 345.508 191.22 345.456 191.149 345.425C191.078 345.393 190.999 345.383 190.922 345.395C190.845 345.407 190.774 345.442 190.716 345.494C190.36 345.441 190.032 345.267 189.789 345.001H194.896C195.064 345.299 195.301 345.554 195.587 345.742C195.873 345.931 196.2 346.049 196.541 346.085C196.599 346.137 196.671 346.172 196.747 346.184C196.824 346.196 196.903 346.186 196.974 346.154C197.045 346.123 197.106 346.071 197.148 346.006C197.191 345.941 197.213 345.864 197.213 345.787C197.213 345.709 197.191 345.632 197.148 345.567C197.106 345.502 197.045 345.45 196.974 345.419C196.903 345.387 196.824 345.377 196.747 345.389C196.671 345.401 196.599 345.436 196.541 345.488C196.185 345.435 195.857 345.261 195.614 344.995H201.347V360.614H184.816V361.199H201.933V344.427H195.279Z" fill="#101820"/>
+            </g>
+            <g id="Amount_2">
+              <text id="Financed" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" font-weight="600" letter-spacing="0.0112em"><tspan x="212" y="355">Financed</tspan></text>
+              <g id="Lender logo">
+                <rect id="image 95" x="323" y="342" width="89" height="16" fill="url(#pattern0)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Info_2">
+            <g id="Monthly payment">
+              <text id="Token_MonthlyPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em"><tspan x="180" y="400.9">$179</tspan></text>
+              <text fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="180" y="421.5">Monthly payment</tspan></text>
+            </g>
+            <g id="Body">
+              <g>
+                <rect id="Rectangle 301" x="286" y="381" width="6" height="6" fill="#D71920"/>
+                <text id="Token_APR_2" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="300" y="387.5">10.59% APR</tspan></text>
+              </g>
+              <g>
+                <rect id="Rectangle 301_2" x="286" y="398" width="6" height="6" fill="#D71920"/>
+                <text id="Token_Term" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="300" y="404.5">25-Year Term</tspan></text>
+              </g>
+              <g id="Frame 1301">
+                <rect id="Rectangle 301_3" x="286" y="415" width="6" height="6" fill="#D71920"/>
+                <text id="No Prepayment Penalty" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="300" y="421.5">No Prepayment Penalty</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect x="32.5" y="311.5" width="407" height="141" stroke="#101820"/>
+      </g>
+    </g>
+    <text id="Token_SystemSavings_Disclosure" fill="#606366" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="10" letter-spacing="0.0112em"><tspan x="32" y="474">Utility Company: New Smyrna Beach Utilities; Current Rate plan: RS-4 Residential </tspan><tspan x="32" y="489">Annual; Utility Escalation Rate Used:  1.8%; Annual Utility Bill: $1,853</tspan></text>
+  </g>
+  <defs>
+    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+      <use xlink:href="#image0_3969_17638" transform="matrix(0.00311526 0 0 0.0173287 0 -0.00253115)"/>
+    </pattern>
+    <clipPath id="clip0_3969_17638">
+      <rect width="264" height="252" fill="white" transform="translate(488 214)"/>
+    </clipPath>
+    <clipPath id="clip1_3969_17638">
+      <rect width="28" height="17.8483" fill="white" transform="translate(490 221)"/>
+    </clipPath>
+    <image id="image0_3969_17638" data-name="image.png" width="321" height="58" xlink:href="data:image/png;base64,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"/>
+  </defs>
 </svg>
