@@ -1,0 +1,13 @@
+{
+  "name": "WHP proposal",
+  "buildDate": 0,
+  "scripts": {
+    "_s0": "if (Token_RooferLogo) render p0/pv1 else p0/pv1",
+    "_s1": "if (Token_SolarMax) render p1/pv1 else p1/pv1'",
+    "_s2": "render 'p2/pv2'",
+    "_s3": "if (Token_BarProduction > 100) render p3/pv1 if (Token_BarProduction > 25 & Token_BarProduction < 100) render p3/pv2 else render p3/pv1"
+  },
+  "fonts": {
+    "Poppins": "fonts/poppins.ttf"
+  }
+}
