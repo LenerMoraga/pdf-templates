@@ -1,0 +1,58 @@
+<svg width="792" height="612" viewBox="0 0 792 612" fill="none" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Info">
+    <g id="Table">
+      <g id="Column">
+        <g id="Header">
+          <mask id="path-68-inside-1_4312_17662" fill="white">
+            <path d="M32 93H236V117H32V93Z"/>
+          </mask>
+          <path d="M32 93H236V117H32V93Z" fill="white"/>
+          <text id="What you pay" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+                font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="32" y="110.6">What you pay</tspan></text>
+          <path d="M236 116H32V118H236V116Z" fill="#F1F2F2" mask="url(#path-68-inside-1_4312_17662)"/>
+        </g>
+        <g id="Row">
+          <text id="Federal investment Tax Credit" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="141.9">Federal Investment Tax Credit</tspan></text>
+          <path d="M236 148H32V150H236V148Z" fill="#F1F2F2" mask="url(#path-71-inside-2_4312_17662)"/>
+        </g>
+        <g id="Row_2">
+          <text id="State / Other Incentives" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="173.9">State / Other Incentives</tspan></text>
+        </g>
+        <g id="Row_3">
+          <text id="Net Investment After Incentives" fill="#D71920" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="32" y="211.9">Net Investment After Incentives</tspan></text>
+          <path d="M32 190H236V188H32V190Z" fill="#002E5D" mask="url(#path-75-inside-3_4312_17662)"/>
+        </g>
+      </g>
+      <g id="Column_2">
+        <g id="Header_2">
+          <mask id="path-78-inside-4_4312_17662" fill="white">
+            <path d="M236 93H440V117H236V93Z"/>
+          </mask>
+          <path d="M236 93H440V117H236V93Z" fill="white"/>
+          <text id="Token_TotalPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins"
+                font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="373" y="110.6">$45,320</tspan></text>
+          <path d="M440 116H236V118H440V116Z" fill="#F1F2F2" mask="url(#path-78-inside-4_4312_17662)"/>
+        </g>
+        <g id="Row_4">
+          <text id="Token_FedITC" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+                font-size="14" letter-spacing="0.0112em"><tspan x="385" y="141.9">-$9,825</tspan></text>
+          <path d="M440 148H236V150H440V148Z" fill="#F1F2F2" mask="url(#path-81-inside-5_4312_17662)"/>
+        </g>
+        <g id="Row_5">
+          <text id="Token_OtherIncentives" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="389" y="173.9">-$2,154</tspan></text>
+        </g>
+        <g id="Row_6">
+          <text id="Token_CostAfterIncent" fill="#D71920" xml:space="preserve" style="white-space: pre"
+                font-family="Poppins" font-size="14" letter-spacing="0.0112em"><tspan x="389" y="211.9">$33,341</tspan></text>
+          <path d="M236 190H440V188H236V190Z" fill="#002E5D" mask="url(#path-85-inside-6_4312_17662)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
