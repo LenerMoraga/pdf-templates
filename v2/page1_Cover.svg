@@ -38,29 +38,29 @@
                     </g>
                 </g>
             </g>
-            <text id="Heading" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+            <text id="Heading" fill="#002E5D" xml:space="default" style="white-space: pre" font-family="Poppins"
                 font-size="40" font-weight="600" letter-spacing="0.0112em">
-                <tspan x="32" y="417">Roofs That </tspan>
-                <tspan x="32" y="467">Power Homes</tspan>
+                <tspan x="31" y="417">Roofs That</tspan>
+                <tspan x="31" y="467">Power Homes</tspan>
             </text>
             <text id="Presented by_2" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
                 font-size="14" font-weight="600" letter-spacing="0.0112em">
                 <tspan x="31" y="502.4">Presented by:</tspan>
             </text>
             <g id="Proposal for">
-                <text id="Proposal for:" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                <text id="Proposal for:" fill="#002E5D" xml:space="default" style="white-space: pre"
                     font-family="Poppins" font-size="14" font-weight="600" letter-spacing="0.0112em">
                     <tspan x="479" y="393.4">Proposal for:</tspan>
                 </text>
                 <g id="Name/Address">
                     <g id="Contact info_2">
                         <g id="name">
-                            <text id="Token_HomeownerName" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+                            <text id="Token_HomeownerName" fill="#002E5D" xml:space="default" style="white-space: pre"
                                 font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em">
                                 <tspan x="479" y="432.4">Roberto Freitas</tspan>
                             </text>
                         </g>
-                        <text id="Token_HomeownerFullAddress" fill="#101820" xml:space="preserve"
+                        <text id="Token_HomeownerFullAddress" fill="#101820" xml:space="default"
                             style="white-space: pre" font-family="Poppins" font-size="14" letter-spacing="0.0112em">
                             <tspan x="479" y="459.4">135 Park BLVD, Kinnelon, NJ 07405</tspan>
                         </text>
