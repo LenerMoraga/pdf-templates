@@ -42,7 +42,9 @@
             </g>
           </g>
           <g id="Monthly price">
-            <text id="Token_TotalPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em"><tspan x="48" y="360.4">$45,320</tspan></text>
+            <text id="Token_TotalPrice" fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins" font-size="24" font-weight="600" letter-spacing="0.0112em">
+              <tspan x="48" y="360.4">$45,320</tspan>
+            </text>
           </g>
         </g>
         <rect id="Rectangle 365" x="163" y="298.5" width="1" height="84" fill="#D71920"/>
