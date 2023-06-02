@@ -1,377 +1,422 @@
-<svg width="792" height="612" viewBox="0 0 792 612" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="296" height="343" transform="translate(472 93)" fill="#F1F2F2" />
-  <text id="Heading" fill="#002E5D" xml:space="preserve" style="white-space: pre"
-    font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="488" y="126.6">What you get</tspan></text>
-  <g id="Content">
-    <g id="Savings">
-      <line id="Divider" x1="488" y1="148.5" x2="752" y2="148.5" stroke="black" />
-    </g>
-    <g id="Description" clip-path="url(#clip0_4898_94044)">
-      <g id="3">
-        <g id="ENERGY_Icon_SolarHouse_FullColor_New">
-          <g id="Icon/ medal">
-            <g id="Asset 4 2" clip-path="url(#clip1_4898_94044)">
-              <g id="Layer 1">
-                <g id="Group">
-                  <g id="Group_2">
-                    <path id="Vector"
-                      d="M508.129 172.293H499.015L491.945 179.479V189.524H516.365V180.705L508.129 172.293Z"
-                      fill="white" />
-                    <g id="Group_3">
-                      <path id="Vector_2"
-                        d="M507.683 180.736L499.508 172.309L509.207 172.184L517.281 180.789L507.683 180.736Z"
-                        fill="#A9ABAC" />
-                      <path id="Vector_3"
-                        d="M517.281 180.721H507.512L499.508 172.309H509.277L517.281 180.721Z"
-                        stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10" />
-                      <path id="Vector_4" d="M501.65 181.102H496.766V189.293H501.65V181.102Z"
-                        fill="#D71920" />
-                      <path id="Vector_5"
-                        d="M491.943 179.479V180.729H490.727L499.014 172.215L491.943 179.479ZM491.943 179.479V189.54H516.363V180.722"
-                        stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10" />
-                      <path id="Vector_6" d="M513.986 182.553H507.609V187.165H513.986V182.553Z"
-                        fill="#A9ABAC" stroke="#000006" stroke-width="0.615944"
-                        stroke-miterlimit="10" />
-                      <path id="Vector_7" d="M510.867 182.416V187.165" stroke="#000006"
-                        stroke-width="0.615944" stroke-miterlimit="10" />
+<svg width="792" height="612" viewBox="0 0 792 612" fill="none" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="What you get">
+    <rect width="296" height="343" transform="translate(472 93)" fill="#F1F2F2" />
+    <text id="Heading" fill="#002E5D" xml:space="preserve" style="white-space: pre"
+      font-family="Poppins" font-size="16" font-weight="bold" letter-spacing="0.0112em"><tspan x="488" y="118.6">What you get</tspan></text>
+    <g id="Content">
+      <g id="Savings">
+        <g id="Years Savings">
+          <text id="Token_25YearSavings" fill="#002E5D" xml:space="preserve"
+            style="white-space: pre" font-family="Poppins" font-size="36" font-weight="600"
+            letter-spacing="0.0112em"><tspan x="488" y="166.6">$27,655</tspan></text>
+          <g id="Description">
+            <text id="Estimated 25-Year" fill="#002E5D" xml:space="preserve"
+              style="white-space: pre" font-family="Poppins" font-size="12"
+              letter-spacing="0.0112em"><tspan x="641" y="151.2">Estimated 25-Year</tspan></text>
+            <text id="Electric Bill Savings" fill="#002E5D" xml:space="preserve"
+              style="white-space: pre" font-family="Poppins" font-size="12"
+              letter-spacing="0.0112em"><tspan x="641" y="165.2">Electric Bill Savings</tspan></text>
+          </g>
+        </g>
+        <line id="Divider" x1="488" y1="183.5" x2="752" y2="183.5" stroke="black" />
+      </g>
+      <g id="Description_2" clip-path="url(#clip0_4468_23703)">
+        <g id="3">
+          <g id="ENERGY_Icon_SolarHouse_FullColor_New">
+            <g id="Icon/ medal">
+              <g id="Asset 4 2" clip-path="url(#clip1_4468_23703)">
+                <g id="Layer 1">
+                  <g id="Group">
+                    <g id="Group_2">
+                      <path id="Vector"
+                        d="M508.129 199.293H499.015L491.945 206.479V216.524H516.365V207.705L508.129 199.293Z"
+                        fill="white" />
+                      <g id="Group_3">
+                        <path id="Vector_2"
+                          d="M507.683 207.736L499.508 199.309L509.207 199.184L517.281 207.789L507.683 207.736Z"
+                          fill="#A9ABAC" />
+                        <path id="Vector_3"
+                          d="M517.281 207.721H507.512L499.508 199.309H509.277L517.281 207.721Z"
+                          stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10" />
+                        <path id="Vector_4" d="M501.65 208.102H496.766V216.293H501.65V208.102Z"
+                          fill="#D71920" />
+                        <path id="Vector_5"
+                          d="M491.943 206.479V207.729H490.727L499.014 199.215L491.943 206.479ZM491.943 206.479V216.54H516.363V207.722"
+                          stroke="#000006" stroke-width="0.615944" stroke-miterlimit="10" />
+                        <path id="Vector_6" d="M513.986 209.553H507.609V214.165H513.986V209.553Z"
+                          fill="#A9ABAC" stroke="#000006" stroke-width="0.615944"
+                          stroke-miterlimit="10" />
+                        <path id="Vector_7" d="M510.867 209.416V214.165" stroke="#000006"
+                          stroke-width="0.615944" stroke-miterlimit="10" />
+                      </g>
+                      <path id="Vector_8"
+                        d="M490.984 207.464L491.709 206.74H491.945V207.728L490.984 207.788V207.464Z"
+                        fill="#000006" />
                     </g>
-                    <path id="Vector_8"
-                      d="M490.984 180.464L491.709 179.74H491.945V180.728L490.984 180.788V180.464Z"
+                    <path id="Vector_9" d="M498.254 212.332H497.562V213.024H498.254V212.332Z"
                       fill="#000006" />
                   </g>
-                  <path id="Vector_9" d="M498.254 185.332H497.562V186.024H498.254V185.332Z"
-                    fill="#000006" />
-                </g>
-                <g id="Group_4">
-                  <path id="Vector_10"
-                    d="M514.232 179.088L507.617 179.172L502.312 173.632L509.042 173.625L514.232 179.088Z"
-                    fill="white" />
-                  <path id="Vector_11" d="M504.695 176.148H511.53" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_12" d="M504.219 175.645H511.023" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_13" d="M503.734 175.139H510.543" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_14" d="M503.258 174.635H510.07" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_15" d="M502.781 174.131H509.599" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_16" d="M506.234 177.66H512.946" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_17" d="M505.75 177.156H512.442" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_18" d="M507.188 179.172H514.516" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_19" d="M507.188 178.668H513.926" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_20" d="M506.711 178.164H513.43" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_21" d="M505.273 176.652H511.971" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_22" d="M506.812 173.52L512.255 179.247" stroke="#0F7BB6"
-                    stroke-width="0.351968" stroke-miterlimit="10" />
-                  <path id="Vector_23" d="M509.102 173.605L514.52 179.309" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_24" d="M504.508 173.52L509.95 179.247" stroke="#0F7BB6"
-                    stroke-width="0.351968" stroke-miterlimit="10" />
-                  <path id="Vector_25" d="M502.312 173.549L507.725 179.245" stroke="#0F7BB6"
-                    stroke-width="0.351968" stroke-miterlimit="10" />
-                  <path id="Vector_26" d="M501.977 173.611H509.371" stroke="#0F7BB6"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_27" d="M507.227 179.328H514.64" stroke="#A9ABAC"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_28" d="M501.797 173.416H509.452" stroke="#A9ABAC"
-                    stroke-width="0.263976" stroke-miterlimit="10" />
-                  <path id="Vector_29" d="M509.109 173.389L514.704 179.277" stroke="#A9ABAC"
-                    stroke-width="0.175984" stroke-miterlimit="10" />
-                  <path id="Vector_30" d="M501.586 173.301L507.569 179.587" stroke="#A9ABAC"
-                    stroke-width="0.351968" stroke-miterlimit="10" />
+                  <g id="Group_4">
+                    <path id="Vector_10"
+                      d="M514.232 206.088L507.617 206.172L502.312 200.632L509.042 200.625L514.232 206.088Z"
+                      fill="white" />
+                    <path id="Vector_11" d="M504.695 203.148H511.53" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_12" d="M504.219 202.645H511.023" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_13" d="M503.734 202.139H510.543" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_14" d="M503.258 201.635H510.07" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_15" d="M502.781 201.131H509.599" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_16" d="M506.234 204.66H512.946" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_17" d="M505.75 204.156H512.442" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_18" d="M507.188 206.172H514.516" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_19" d="M507.188 205.668H513.926" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_20" d="M506.711 205.164H513.43" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_21" d="M505.273 203.652H511.971" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_22" d="M506.812 200.52L512.255 206.247" stroke="#0F7BB6"
+                      stroke-width="0.351968" stroke-miterlimit="10" />
+                    <path id="Vector_23" d="M509.102 200.605L514.52 206.309" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_24" d="M504.508 200.52L509.95 206.247" stroke="#0F7BB6"
+                      stroke-width="0.351968" stroke-miterlimit="10" />
+                    <path id="Vector_25" d="M502.312 200.549L507.725 206.245" stroke="#0F7BB6"
+                      stroke-width="0.351968" stroke-miterlimit="10" />
+                    <path id="Vector_26" d="M501.977 200.611H509.371" stroke="#0F7BB6"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_27" d="M507.227 206.328H514.64" stroke="#A9ABAC"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_28" d="M501.797 200.416H509.452" stroke="#A9ABAC"
+                      stroke-width="0.263976" stroke-miterlimit="10" />
+                    <path id="Vector_29" d="M509.109 200.389L514.704 206.277" stroke="#A9ABAC"
+                      stroke-width="0.175984" stroke-miterlimit="10" />
+                    <path id="Vector_30" d="M501.586 200.301L507.569 206.587" stroke="#A9ABAC"
+                      stroke-width="0.351968" stroke-miterlimit="10" />
+                  </g>
                 </g>
               </g>
             </g>
           </g>
-        </g>
-        <g id="Built-In Energy Shingles">
-          <g id="Energy shingles">
-          <text id="Token_SystemSize" fill="#002E5D" xml:space="preserve"
-              style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-              letter-spacing="0.0112em"><tspan x="528" y="180.4">7.12 kW</tspan></text>
-            <text id="systemSizeText" fill="#002E5D" xml:space="preserve"
-              style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-              letter-spacing="0.0112em"><tspan x="528" y="180.4">  Timberline Solar ES</tspan></text>
-            <text
-              id="Add value to your home with a roof that reliably reduces your energy bills."
-              fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-              font-size="12" letter-spacing="0.0112em"><tspan x="528" y="197.2">Add value to your home with a </tspan><tspan x="528" y="211.2">roof that reliably reduces your </tspan><tspan x="528" y="225.2">energy bills.</tspan></text>
+          <g id="Built-In Energy Shingles">
+            <g id="Energy shingles">
+              <text id="Token_SystemSize" fill="#002E5D" xml:space="preserve"
+                style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
+                letter-spacing="0.0112em"><tspan x="528" y="206.7">7.12 kW</tspan></text>
+              <text id="systemSizeText" fill="#002E5D" xml:space="preserve"
+                style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
+                letter-spacing="0.0112em"><tspan x="528" y="206.7">  Timberline Solar ES</tspan></text>
+              <text
+                id="Add value to your home with a roof that reliably reduces your energy bills."
+                fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+                font-size="10" letter-spacing="0.0112em"><tspan x="528" y="224">Add value to your home with a roof that </tspan><tspan x="528" y="239">reliably reduces your energy bills.</tspan></text>
+            </g>
           </g>
         </g>
-      </g>
-      <g id="7-part">
-        <g id="House Icon_ New">
-          <g id="Layer 1_2">
-            <path id="Vector_31" d="M503.196 263.395L494.367 269.299V282.287H513.084V269.762"
-              fill="white" />
-            <g id="Clip path group">
-              <mask id="mask0_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="493" y="269" width="22" height="16">
-                <g id="clippath">
-                  <path id="Vector_32" d="M514.512 269.766H493.215V284.001H514.512V269.766Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask0_4898_94044)">
-                <g id="Group_5">
-                  <path id="Vector_33"
-                    d="M495.73 270.469H493.914V283.295H513.809V281.591H495.73V270.469Z"
-                    fill="#626367" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_2">
-              <mask id="mask1_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="503" y="263" width="16" height="20">
-                <g id="clippath-1">
-                  <path id="Vector_34" d="M518.038 263.4H503.199V282.292H518.038V263.4Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask1_4898_94044)">
-                <g id="Group_6">
-                  <path id="Vector_35"
-                    d="M507.503 264.102H503.898L512.033 269.445V281.591H513.793V270.469H517.335L507.503 264.102Z"
-                    fill="#626367" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_3">
-              <mask id="mask2_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="489" y="261" width="20" height="12">
-                <g id="clippath-2">
-                  <path id="Vector_36" d="M508.199 261.125H489.672V272.983H508.199V261.125Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask2_4898_94044)">
-                <g id="Group_7">
-                  <path id="Vector_37"
-                    d="M503.983 261.828L490.371 270.58L491.276 272.284L493.891 270.468H495.708V269.444L503.891 264.1H507.496L503.983 261.828Z"
-                    fill="#626367" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_4">
-              <mask id="mask3_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="513" y="269" width="6" height="4">
-                <g id="clippath-3">
-                  <path id="Vector_38" d="M518.162 269.766H513.078V272.76H518.162V269.766Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask3_4898_94044)">
-                <g id="Group_8">
-                  <path id="Vector_39"
-                    d="M517.33 270.469H513.789L516.286 272.061L517.464 270.553L517.33 270.469Z"
-                    fill="#626367" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_5">
-              <mask id="mask4_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="489" y="264" width="9" height="7">
-                <g id="clippath-4">
-                  <path id="Vector_40" d="M497.181 264.445H489.859V270.329H497.181V264.445Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask4_4898_94044)">
-                <g id="Group_9">
-                  <path id="Vector_41"
-                    d="M495.838 265.143L490.559 268.678L491.194 269.628L496.474 266.093L495.838 265.143Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_6">
-              <mask id="mask5_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="510" y="264" width="8" height="7">
-                <g id="clippath-5">
-                  <path id="Vector_42" d="M517.931 264.445H510.609V270.329H517.931V264.445Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask5_4898_94044)">
-                <g id="Group_10">
-                  <path id="Vector_43"
-                    d="M511.952 265.146L511.316 266.096L516.597 269.629L517.232 268.679L511.952 265.146Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_7">
-              <mask id="mask6_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="489" y="264" width="6" height="5">
-                <g id="clippath-6">
-                  <path id="Vector_44" d="M494.352 264.379H489.906V268.341H494.352V264.379Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask6_4898_94044)">
-                <g id="Group_11">
-                  <path id="Vector_45"
-                    d="M493.024 265.082L490.617 266.693L491.253 267.643L493.66 266.032L493.024 265.082Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_8">
-              <mask id="mask7_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="513" y="264" width="5" height="5">
-                <g id="clippath-7">
-                  <path id="Vector_46" d="M517.982 264.379H513.508V268.383H517.982V264.379Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask7_4898_94044)">
-                <g id="Group_12">
-                  <path id="Vector_47"
-                    d="M514.871 265.08L514.207 266.07L516.613 267.682L517.277 266.692L514.871 265.08Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_9">
-              <mask id="mask8_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="489" y="255" width="19" height="12">
-                <g id="clippath-8">
-                  <path id="Vector_48" d="M507.124 255.443H489.648V266.145H507.124V255.443Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask8_4898_94044)">
-                <g id="Group_13">
-                  <path id="Vector_49"
-                    d="M504.015 256.161H503.994L503.987 256.146L490.348 264.372L490.993 265.445L503.994 257.612H506.421L504.015 256.161Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Clip path group_10">
-              <mask id="mask9_4898_94044" style="mask-type:luminance" maskUnits="userSpaceOnUse"
-                x="503" y="256" width="16" height="11">
-                <g id="clippath-9">
-                  <path id="Vector_50" d="M518.35 256.904H503.301V266.147H518.35V256.904Z"
-                    fill="white" />
-                </g>
-              </mask>
-              <g mask="url(#mask9_4898_94044)">
-                <g id="Group_14">
-                  <path id="Vector_51"
-                    d="M506.434 257.607H504.008L517.002 265.441L517.654 264.368L506.434 257.607Z"
-                    fill="#117BB6" />
-                </g>
-              </g>
-            </g>
-            <g id="Group_15">
-              <g id="Clip path group_11">
-                <mask id="mask10_4898_94044" style="mask-type:luminance"
-                  maskUnits="userSpaceOnUse" x="493" y="257" width="15" height="10">
-                  <g id="clippath-10">
-                    <path id="Vector_52" d="M507.169 257.705H493.102V266.352H507.169V257.705Z"
+        <g id="7-part">
+          <g id="House Icon_ New">
+            <g id="Layer 1_2">
+              <path id="Vector_31" d="M503.196 262.395L494.367 268.299V281.287H513.084V268.762"
+                fill="white" />
+              <g id="Clip path group">
+                <mask id="mask0_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="493" y="268" width="22" height="16">
+                  <g id="clippath">
+                    <path id="Vector_32" d="M514.512 268.766H493.215V283.001H514.512V268.766Z"
                       fill="white" />
                   </g>
                 </mask>
-                <g mask="url(#mask10_4898_94044)">
-                  <g id="Group_16">
-                    <path id="Vector_53"
-                      d="M504.06 258.417H504.039L504.032 258.41L493.801 264.581L494.446 265.654L504.039 259.869H506.466L504.06 258.417Z"
+                <g mask="url(#mask0_4468_23703)">
+                  <g id="Group_5">
+                    <path id="Vector_33"
+                      d="M495.73 269.469H493.914V282.295H513.809V280.591H495.73V269.469Z"
+                      fill="#626367" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_2">
+                <mask id="mask1_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="503" y="262" width="16" height="20">
+                  <g id="clippath-1">
+                    <path id="Vector_34" d="M518.038 262.4H503.199V281.292H518.038V262.4Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask1_4468_23703)">
+                  <g id="Group_6">
+                    <path id="Vector_35"
+                      d="M507.503 263.102H503.898L512.033 268.445V280.591H513.793V269.469H517.335L507.503 263.102Z"
+                      fill="#626367" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_3">
+                <mask id="mask2_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="489" y="260" width="20" height="12">
+                  <g id="clippath-2">
+                    <path id="Vector_36" d="M508.199 260.125H489.672V271.983H508.199V260.125Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask2_4468_23703)">
+                  <g id="Group_7">
+                    <path id="Vector_37"
+                      d="M503.983 260.828L490.371 269.58L491.276 271.284L493.891 269.468H495.708V268.444L503.891 263.1H507.496L503.983 260.828Z"
+                      fill="#626367" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_4">
+                <mask id="mask3_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="513" y="268" width="6" height="4">
+                  <g id="clippath-3">
+                    <path id="Vector_38" d="M518.162 268.766H513.078V271.76H518.162V268.766Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask3_4468_23703)">
+                  <g id="Group_8">
+                    <path id="Vector_39"
+                      d="M517.33 269.469H513.789L516.286 271.061L517.464 269.553L517.33 269.469Z"
+                      fill="#626367" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_5">
+                <mask id="mask4_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="489" y="263" width="9" height="7">
+                  <g id="clippath-4">
+                    <path id="Vector_40" d="M497.181 263.445H489.859V269.329H497.181V263.445Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask4_4468_23703)">
+                  <g id="Group_9">
+                    <path id="Vector_41"
+                      d="M495.838 264.143L490.559 267.678L491.194 268.628L496.474 265.093L495.838 264.143Z"
                       fill="#117BB6" />
                   </g>
                 </g>
               </g>
-              <g id="Clip path group_12">
-                <mask id="mask11_4898_94044" style="mask-type:luminance"
-                  maskUnits="userSpaceOnUse" x="503" y="259" width="12" height="8">
-                  <g id="clippath-11">
-                    <path id="Vector_54" d="M514.9 259.166H503.301V266.333H514.9V259.166Z"
+              <g id="Clip path group_6">
+                <mask id="mask5_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="510" y="263" width="8" height="7">
+                  <g id="clippath-5">
+                    <path id="Vector_42" d="M517.931 263.445H510.609V269.329H517.931V263.445Z"
                       fill="white" />
                   </g>
                 </mask>
-                <g mask="url(#mask11_4898_94044)">
-                  <g id="Group_17">
-                    <path id="Vector_55"
-                      d="M506.434 259.867H504.008L513.559 265.625L514.204 264.552L506.434 259.867Z"
+                <g mask="url(#mask5_4468_23703)">
+                  <g id="Group_10">
+                    <path id="Vector_43"
+                      d="M511.952 264.146L511.316 265.096L516.597 268.629L517.232 267.679L511.952 264.146Z"
                       fill="#117BB6" />
                   </g>
                 </g>
               </g>
+              <g id="Clip path group_7">
+                <mask id="mask6_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="489" y="263" width="6" height="5">
+                  <g id="clippath-6">
+                    <path id="Vector_44" d="M494.352 263.379H489.906V267.341H494.352V263.379Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask6_4468_23703)">
+                  <g id="Group_11">
+                    <path id="Vector_45"
+                      d="M493.024 264.082L490.617 265.693L491.253 266.643L493.66 265.032L493.024 264.082Z"
+                      fill="#117BB6" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_8">
+                <mask id="mask7_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="513" y="263" width="5" height="5">
+                  <g id="clippath-7">
+                    <path id="Vector_46" d="M517.982 263.379H513.508V267.383H517.982V263.379Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask7_4468_23703)">
+                  <g id="Group_12">
+                    <path id="Vector_47"
+                      d="M514.871 264.08L514.207 265.07L516.613 266.682L517.277 265.692L514.871 264.08Z"
+                      fill="#117BB6" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_9">
+                <mask id="mask8_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="489" y="254" width="19" height="12">
+                  <g id="clippath-8">
+                    <path id="Vector_48" d="M507.124 254.443H489.648V265.145H507.124V254.443Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask8_4468_23703)">
+                  <g id="Group_13">
+                    <path id="Vector_49"
+                      d="M504.015 255.161H503.994L503.987 255.146L490.348 263.372L490.993 264.445L503.994 256.612H506.421L504.015 255.161Z"
+                      fill="#117BB6" />
+                  </g>
+                </g>
+              </g>
+              <g id="Clip path group_10">
+                <mask id="mask9_4468_23703" style="mask-type:luminance" maskUnits="userSpaceOnUse"
+                  x="503" y="255" width="16" height="11">
+                  <g id="clippath-9">
+                    <path id="Vector_50" d="M518.35 255.904H503.301V265.147H518.35V255.904Z"
+                      fill="white" />
+                  </g>
+                </mask>
+                <g mask="url(#mask9_4468_23703)">
+                  <g id="Group_14">
+                    <path id="Vector_51"
+                      d="M506.434 256.607H504.008L517.002 264.441L517.654 263.368L506.434 256.607Z"
+                      fill="#117BB6" />
+                  </g>
+                </g>
+              </g>
+              <g id="Group_15">
+                <g id="Clip path group_11">
+                  <mask id="mask10_4468_23703" style="mask-type:luminance"
+                    maskUnits="userSpaceOnUse" x="493" y="256" width="15" height="10">
+                    <g id="clippath-10">
+                      <path id="Vector_52" d="M507.169 256.705H493.102V265.352H507.169V256.705Z"
+                        fill="white" />
+                    </g>
+                  </mask>
+                  <g mask="url(#mask10_4468_23703)">
+                    <g id="Group_16">
+                      <path id="Vector_53"
+                        d="M504.06 257.417H504.039L504.032 257.41L493.801 263.581L494.446 264.654L504.039 258.869H506.466L504.06 257.417Z"
+                        fill="#117BB6" />
+                    </g>
+                  </g>
+                </g>
+                <g id="Clip path group_12">
+                  <mask id="mask11_4468_23703" style="mask-type:luminance"
+                    maskUnits="userSpaceOnUse" x="503" y="258" width="12" height="8">
+                    <g id="clippath-11">
+                      <path id="Vector_54" d="M514.9 258.166H503.301V265.333H514.9V258.166Z"
+                        fill="white" />
+                    </g>
+                  </mask>
+                  <g mask="url(#mask11_4468_23703)">
+                    <g id="Group_17">
+                      <path id="Vector_55"
+                        d="M506.434 258.867H504.008L513.559 264.625L514.204 263.552L506.434 258.867Z"
+                        fill="#117BB6" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <path id="Vector_56"
+                d="M506.658 252.522L504.126 251L501.363 252.662L501.952 253.644L504.035 252.388L506.02 253.588L506.658 252.522Z"
+                fill="#117BB6" />
+              <path id="Vector_57"
+                d="M504.005 253.039L507.96 255.43L507.301 256.496L503.984 254.491L500.492 256.594L499.805 255.543L504.005 253.039Z"
+                fill="#117BB6" />
+              <path id="Vector_58" d="M506.446 271.057H501.242V280.622H506.446V271.057Z"
+                fill="#D72027" />
+              <path id="Vector_59"
+                d="M502.296 276.822C502.567 276.822 502.786 276.602 502.786 276.331C502.786 276.06 502.567 275.84 502.296 275.84C502.024 275.84 501.805 276.06 501.805 276.331C501.805 276.602 502.024 276.822 502.296 276.822Z"
+                fill="#231F20" />
             </g>
-            <path id="Vector_56"
-              d="M506.658 253.522L504.126 252L501.363 253.662L501.952 254.644L504.035 253.388L506.02 254.588L506.658 253.522Z"
-              fill="#117BB6" />
-            <path id="Vector_57"
-              d="M504.005 254.039L507.96 256.43L507.301 257.496L503.984 255.491L500.492 257.594L499.805 256.543L504.005 254.039Z"
-              fill="#117BB6" />
-            <path id="Vector_58" d="M506.446 272.057H501.242V281.622H506.446V272.057Z"
-              fill="#D72027" />
-            <path id="Vector_59"
-              d="M502.296 277.822C502.567 277.822 502.786 277.602 502.786 277.331C502.786 277.06 502.567 276.84 502.296 276.84C502.024 276.84 501.805 277.06 501.805 277.331C501.805 277.602 502.024 277.822 502.296 277.822Z"
-              fill="#231F20" />
+          </g>
+          <g id="Roofing System">
+            <g id="Content_2">
+              <text id="7-Part Solar Roofing System" fill="#002E5D" xml:space="preserve"
+                style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
+                letter-spacing="0.0112em"><tspan x="528" y="265.7">7-Part Solar Roofing System</tspan></text>
+              <text
+                id="Enjoy peace of mind with a roof that is built to last and is trusted by millions."
+                fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+                font-size="10" letter-spacing="0.0112em"><tspan x="528" y="283">Enjoy peace of mind with a roof that is </tspan><tspan x="528" y="298">built to last and is trusted by millions.</tspan></text>
+            </g>
           </g>
         </g>
-        <g id="Roofing System">
-          <g id="Content_2">
-            <text id="7-Part Solar Roofing System" fill="#002E5D" xml:space="preserve"
-              style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-              letter-spacing="0.0112em"><tspan x="528" y="267.4">7-Part Solar Roofing System</tspan></text>
-            <text
-              id="Enjoy peace of mind with a roof that is built to last and is trusted by millions."
+        <g id="4">
+          <g id="Illustration_Monitor">
+            <g id="Vector_60">
+              <path
+                d="M493.29 322.821C493.29 320.234 495.228 318.107 497.71 317.857V319.869C496.316 320.107 495.254 321.338 495.254 322.821C495.254 323.467 495.456 324.066 495.799 324.555L494.399 325.978C493.706 325.118 493.29 324.019 493.29 322.821Z"
+                fill="#D71920" />
+              <path
+                d="M496.494 325.26L495.093 326.683C495.94 327.387 497.022 327.809 498.201 327.809C499.38 327.809 500.462 327.387 501.309 326.683L499.908 325.26C499.427 325.609 498.837 325.814 498.201 325.814C497.565 325.814 496.975 325.609 496.494 325.26Z"
+                fill="#D71920" />
+              <path
+                d="M500.603 324.555L502.003 325.978C502.696 325.118 503.112 324.019 503.112 322.821C503.112 320.234 501.174 318.107 498.692 317.857V319.869C500.085 320.107 501.147 321.338 501.147 322.821C501.147 323.467 500.946 324.066 500.603 324.555Z"
+                fill="#D71920" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M497.823 317.73V319.966L497.729 319.982C496.389 320.211 495.368 321.394 495.368 322.821C495.368 323.442 495.562 324.018 495.892 324.488L495.947 324.567L494.39 326.149L494.311 326.05C493.602 325.171 493.177 324.046 493.177 322.821C493.177 320.175 495.159 317.999 497.699 317.742L497.823 317.73ZM498.579 317.73L498.703 317.742C501.242 317.999 503.225 320.175 503.225 322.821C503.225 324.046 502.8 325.171 502.091 326.05L502.012 326.149L500.455 324.567L500.51 324.488C500.84 324.018 501.034 323.442 501.034 322.821C501.034 321.394 500.013 320.211 498.673 319.982L498.579 319.966V317.73ZM497.596 317.985C495.233 318.287 493.404 320.337 493.404 322.821C493.404 323.945 493.778 324.981 494.408 325.805L495.652 324.541C495.329 324.049 495.141 323.457 495.141 322.821C495.141 321.314 496.196 320.058 497.596 319.773V317.985ZM498.805 317.985V319.773C500.206 320.058 501.261 321.314 501.261 322.821C501.261 323.457 501.072 324.049 500.749 324.541L501.994 325.805C502.623 324.981 502.998 323.945 502.998 322.821C502.998 320.337 501.169 318.287 498.805 317.985ZM496.481 325.11L496.56 325.167C497.023 325.502 497.589 325.699 498.201 325.699C498.813 325.699 499.379 325.502 499.842 325.167L499.921 325.11L501.477 326.692L501.381 326.772C500.515 327.492 499.407 327.924 498.201 327.924C496.994 327.924 495.887 327.492 495.021 326.772L494.924 326.692L496.481 325.11ZM496.507 325.409L495.263 326.673C496.075 327.313 497.094 327.694 498.201 327.694C499.308 327.694 500.327 327.313 501.139 326.673L499.895 325.409C499.41 325.737 498.827 325.929 498.201 325.929C497.575 325.929 496.992 325.737 496.507 325.409Z"
+                fill="#101820" />
+              <path d="M505.79 321.838H508.022V325.819H505.79V321.838Z" fill="#002E5D" />
+              <path d="M505.79 326.814H508.022V327.809H505.79V326.814Z" fill="#002E5D" />
+              <path d="M509.138 319.847H511.371V325.819H509.138V319.847Z" fill="#002E5D" />
+              <path d="M512.487 317.857H514.719V325.819H512.487V317.857Z" fill="#002E5D" />
+              <path d="M509.138 326.814H511.371V327.809H509.138V326.814Z" fill="#002E5D" />
+              <path d="M512.487 326.814H514.719V327.809H512.487V326.814Z" fill="#002E5D" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M512.373 317.742H514.832V325.934H512.373V317.742ZM512.6 317.972V325.704H514.605V317.972H512.6ZM509.025 319.732H511.484V325.934H509.025V319.732ZM509.252 319.962V325.704H511.257V319.962H509.252ZM505.677 321.723H508.136V325.934H505.677V321.723ZM505.904 321.953V325.704H507.909V321.953H505.904ZM505.677 326.699H508.136V327.924H505.677V326.699ZM505.904 326.929V327.694H507.909V326.929H505.904ZM509.025 326.699H511.484V327.924H509.025V326.699ZM509.252 326.929V327.694H511.257V326.929H509.252ZM512.373 326.699H514.832V327.924H512.373V326.699ZM512.6 326.929V327.694H514.605V326.929H512.6Z"
+                fill="#101820" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M489.719 315.143H518.29V332.514H506.862V335.409L509.719 335.409V336.857H498.29V335.409L501.147 335.409V332.514H489.719V315.143ZM491.147 316.59H516.862V329.619H491.147V316.59ZM504.004 331.971C504.399 331.971 504.719 331.647 504.719 331.247C504.719 330.848 504.399 330.524 504.004 330.524C503.61 330.524 503.29 330.848 503.29 331.247C503.29 331.647 503.61 331.971 504.004 331.971Z"
+                fill="#D9D9D6" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M501.147 335.409L498.29 335.409V336.857H509.719V335.409L506.862 335.409V332.514H518.29V315.143H489.719V332.514H501.147V335.409ZM490.165 332.062H501.594V335.862L498.737 335.862V336.404H509.272V335.862L506.415 335.862V332.062H517.844V315.595H490.165V332.062ZM517.308 316.138V330.071H504.004H490.701V316.138H517.308ZM504.004 330.071C504.646 330.071 505.165 330.598 505.165 331.247C505.165 331.897 504.646 332.424 504.004 332.424C503.363 332.424 502.844 331.897 502.844 331.247C502.844 330.598 503.363 330.071 504.004 330.071ZM491.147 316.59H516.862V329.619H491.147V316.59ZM504.719 331.247C504.719 331.647 504.399 331.971 504.004 331.971C503.61 331.971 503.29 331.647 503.29 331.247C503.29 330.848 503.61 330.524 504.004 330.524C504.399 330.524 504.719 330.848 504.719 331.247Z"
+                fill="#101820" />
+            </g>
+          </g>
+          <g id="Monitoring Energy">
+            <text id="Energy Production Data" fill="#002E5D" xml:space="preserve"
+              style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
+              letter-spacing="0.0112em"><tspan x="528" y="324.7">Energy Production Data </tspan></text>
+            <text id="See how much energy your Solar Roof is producing anytime, anywhere."
               fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-              font-size="12" letter-spacing="0.0112em"><tspan x="528" y="284.2">Enjoy peace of mind with a roof </tspan><tspan x="528" y="298.2">that is built to last and is </tspan><tspan x="528" y="312.2">trusted by millions.</tspan></text>
+              font-size="10" letter-spacing="0.0112em"><tspan x="528" y="342">See how much energy your Solar Roof </tspan><tspan x="528" y="357">is producing anytime, anywhere.</tspan></text>
           </g>
         </g>
-      </g>
-      <g id="4">
-        <g id="Illustration_Monitor">
-          <g id="Vector_60">
-            <path
-              d="M493.29 351.821C493.29 349.234 495.228 347.107 497.71 346.857V348.869C496.316 349.107 495.254 350.338 495.254 351.821C495.254 352.467 495.456 353.066 495.799 353.555L494.399 354.978C493.706 354.118 493.29 353.019 493.29 351.821Z"
-              fill="#D71920" />
-            <path
-              d="M496.494 354.26L495.093 355.683C495.94 356.387 497.022 356.809 498.201 356.809C499.38 356.809 500.462 356.387 501.309 355.683L499.908 354.26C499.427 354.609 498.837 354.814 498.201 354.814C497.565 354.814 496.975 354.609 496.494 354.26Z"
-              fill="#D71920" />
-            <path
-              d="M500.603 353.555L502.003 354.978C502.696 354.118 503.112 353.019 503.112 351.821C503.112 349.234 501.174 347.107 498.692 346.857V348.869C500.085 349.107 501.147 350.338 501.147 351.821C501.147 352.467 500.946 353.066 500.603 353.555Z"
-              fill="#D71920" />
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M497.823 346.73V348.966L497.729 348.982C496.389 349.211 495.368 350.394 495.368 351.821C495.368 352.442 495.562 353.018 495.892 353.488L495.947 353.567L494.39 355.149L494.311 355.05C493.602 354.171 493.177 353.046 493.177 351.821C493.177 349.175 495.159 346.999 497.699 346.742L497.823 346.73ZM498.579 346.73L498.703 346.742C501.242 346.999 503.225 349.175 503.225 351.821C503.225 353.046 502.8 354.171 502.091 355.05L502.012 355.149L500.455 353.567L500.51 353.488C500.84 353.018 501.034 352.442 501.034 351.821C501.034 350.394 500.013 349.211 498.673 348.982L498.579 348.966V346.73ZM497.596 346.985C495.233 347.287 493.404 349.337 493.404 351.821C493.404 352.945 493.778 353.981 494.408 354.805L495.652 353.541C495.329 353.049 495.141 352.457 495.141 351.821C495.141 350.314 496.196 349.058 497.596 348.773V346.985ZM498.805 346.985V348.773C500.206 349.058 501.261 350.314 501.261 351.821C501.261 352.457 501.072 353.049 500.749 353.541L501.994 354.805C502.623 353.981 502.998 352.945 502.998 351.821C502.998 349.337 501.169 347.287 498.805 346.985ZM496.481 354.11L496.56 354.167C497.023 354.502 497.589 354.699 498.201 354.699C498.813 354.699 499.379 354.502 499.842 354.167L499.921 354.11L501.477 355.692L501.381 355.772C500.515 356.492 499.407 356.924 498.201 356.924C496.994 356.924 495.887 356.492 495.021 355.772L494.924 355.692L496.481 354.11ZM496.507 354.409L495.263 355.673C496.075 356.313 497.094 356.694 498.201 356.694C499.308 356.694 500.327 356.313 501.139 355.673L499.895 354.409C499.41 354.737 498.827 354.929 498.201 354.929C497.575 354.929 496.992 354.737 496.507 354.409Z"
-              fill="#101820" />
-            <path d="M505.79 350.838H508.022V354.819H505.79V350.838Z" fill="#002E5D" />
-            <path d="M505.79 355.814H508.022V356.809H505.79V355.814Z" fill="#002E5D" />
-            <path d="M509.138 348.847H511.371V354.819H509.138V348.847Z" fill="#002E5D" />
-            <path d="M512.487 346.857H514.719V354.819H512.487V346.857Z" fill="#002E5D" />
-            <path d="M509.138 355.814H511.371V356.809H509.138V355.814Z" fill="#002E5D" />
-            <path d="M512.487 355.814H514.719V356.809H512.487V355.814Z" fill="#002E5D" />
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M512.373 346.742H514.832V354.934H512.373V346.742ZM512.6 346.972V354.704H514.605V346.972H512.6ZM509.025 348.732H511.484V354.934H509.025V348.732ZM509.252 348.962V354.704H511.257V348.962H509.252ZM505.677 350.723H508.136V354.934H505.677V350.723ZM505.904 350.953V354.704H507.909V350.953H505.904ZM505.677 355.699H508.136V356.924H505.677V355.699ZM505.904 355.929V356.694H507.909V355.929H505.904ZM509.025 355.699H511.484V356.924H509.025V355.699ZM509.252 355.929V356.694H511.257V355.929H509.252ZM512.373 355.699H514.832V356.924H512.373V355.699ZM512.6 355.929V356.694H514.605V355.929H512.6Z"
-              fill="#101820" />
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M489.719 344.143H518.29V361.514H506.862V364.409L509.719 364.409V365.857H498.29V364.409L501.147 364.409V361.514H489.719V344.143ZM491.147 345.59H516.862V358.619H491.147V345.59ZM504.004 360.971C504.399 360.971 504.719 360.647 504.719 360.247C504.719 359.848 504.399 359.524 504.004 359.524C503.61 359.524 503.29 359.848 503.29 360.247C503.29 360.647 503.61 360.971 504.004 360.971Z"
-              fill="#D9D9D6" />
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M501.147 364.409L498.29 364.409V365.857H509.719V364.409L506.862 364.409V361.514H518.29V344.143H489.719V361.514H501.147V364.409ZM490.165 361.062H501.594V364.862L498.737 364.862V365.404H509.272V364.862L506.415 364.862V361.062H517.844V344.595H490.165V361.062ZM517.308 345.138V359.071H504.004H490.701V345.138H517.308ZM504.004 359.071C504.646 359.071 505.165 359.598 505.165 360.247C505.165 360.897 504.646 361.424 504.004 361.424C503.363 361.424 502.844 360.897 502.844 360.247C502.844 359.598 503.363 359.071 504.004 359.071ZM491.147 345.59H516.862V358.619H491.147V345.59ZM504.719 360.247C504.719 360.647 504.399 360.971 504.004 360.971C503.61 360.971 503.29 360.647 503.29 360.247C503.29 359.848 503.61 359.524 504.004 359.524C504.399 359.524 504.719 359.848 504.719 360.247Z"
-              fill="#101820" />
+        <g id="25 year">
+          <g id="Icon_Medal">
+            <g id="Vector_61">
+              <path
+                d="M503.998 370.366H503.9C501.579 370.389 499.358 371.282 497.708 372.857C496.058 374.431 495.107 376.563 495.057 378.801C495.008 381.039 495.863 383.209 497.441 384.85C499.02 386.491 501.199 387.475 503.517 387.594C503.644 387.6 503.772 387.602 503.9 387.604H503.998C504.435 387.604 504.872 387.573 505.304 387.512C507.531 387.187 509.548 386.063 510.953 384.366C512.357 382.668 513.046 380.522 512.881 378.356C512.716 376.189 511.709 374.163 510.062 372.682C508.416 371.201 506.25 370.374 503.998 370.366Z"
+                fill="#B2B2B5" />
+              <path
+                d="M510.723 384.665C509.326 386.207 507.406 387.217 505.306 387.514C504.874 387.576 504.437 387.607 504 387.607H503.902C503.774 387.607 503.646 387.607 503.519 387.597C501.196 387.479 499.014 386.49 497.436 384.842C497.381 384.785 497.327 384.724 497.275 384.665L493 396.817L497.463 396.045L500.964 400L504 389.985L507.038 399.998L510.539 396.043L515 396.817L510.723 384.665Z"
+                fill="#0075B2" />
+              <path
+                d="M503.957 385.448C507.656 385.448 510.654 382.556 510.654 378.989C510.654 375.422 507.656 372.53 503.957 372.53C500.259 372.53 497.261 375.422 497.261 378.989C497.261 382.556 500.259 385.448 503.957 385.448Z"
+                fill="white" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M502.88 374.835H505.738L504.31 378.184H506.76L501.86 384.093L503.289 379.76H501.246L502.88 374.835Z"
+                fill="#FA121A" />
+              <path
+                d="M503.997 387.979H503.894C503.784 387.979 503.64 387.979 503.495 387.968C501.072 387.848 498.794 386.816 497.15 385.093C495.558 383.431 494.674 381.251 494.676 378.989C494.676 376.621 495.644 374.35 497.37 372.667C499.096 370.984 501.44 370.026 503.894 370H503.997C506.468 370.003 508.837 370.951 510.584 372.636C512.331 374.322 513.314 376.607 513.317 378.991C513.316 381.147 512.512 383.232 511.051 384.864C509.59 386.497 507.57 387.569 505.359 387.885C504.907 387.948 504.452 387.979 503.997 387.979ZM503.997 370.737H503.901C501.681 370.761 499.558 371.617 497.981 373.124C496.403 374.63 495.495 376.67 495.448 378.811C495.4 380.951 496.217 383.026 497.727 384.597C499.236 386.167 501.319 387.11 503.536 387.226C503.666 387.233 503.8 387.235 503.902 387.236H503.997C504.415 387.236 504.834 387.206 505.248 387.148C507.379 386.837 509.31 385.761 510.655 384.136C511.999 382.511 512.659 380.457 512.5 378.383C512.342 376.31 511.379 374.37 509.802 372.952C508.225 371.535 506.152 370.743 503.997 370.737ZM503.954 385.817C502.554 385.817 501.185 385.416 500.021 384.666C498.857 383.916 497.949 382.849 497.414 381.602C496.878 380.354 496.738 378.981 497.011 377.656C497.284 376.332 497.958 375.115 498.948 374.16C499.938 373.205 501.2 372.555 502.573 372.291C503.946 372.028 505.369 372.163 506.663 372.68C507.956 373.197 509.062 374.072 509.84 375.195C510.618 376.318 511.033 377.638 511.033 378.989C511.031 380.799 510.285 382.535 508.957 383.815C507.63 385.095 505.831 385.815 503.954 385.817ZM503.954 372.899C502.705 372.899 501.485 373.256 500.446 373.925C499.408 374.594 498.599 375.545 498.121 376.658C497.643 377.771 497.518 378.995 497.762 380.177C498.005 381.358 498.607 382.443 499.49 383.295C500.373 384.146 501.497 384.726 502.722 384.961C503.947 385.196 505.216 385.076 506.37 384.615C507.523 384.154 508.51 383.373 509.203 382.372C509.897 381.37 510.267 380.193 510.267 378.989C510.265 377.374 509.599 375.826 508.416 374.685C507.232 373.543 505.628 372.901 503.954 372.899Z"
+                fill="#03111A" />
+            </g>
           </g>
-        </g>
-        <g id="Monitoring Energy">
-          <text id="Energy Production Data" fill="#002E5D" xml:space="preserve"
-            style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-            letter-spacing="0.0112em"><tspan x="528" y="354.4">Energy Production Data </tspan></text>
-          <text id="See how much energy your Solar Roof is producing anytime, anywhere."
-            fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
-            font-size="12" letter-spacing="0.0112em"><tspan x="528" y="371.2">See how much energy your </tspan><tspan x="528" y="385.2">Solar Roof is producing </tspan><tspan x="528" y="399.2">anytime, anywhere.</tspan></text>
+          <g id="Performance">
+            <text id="25-Year Performance Guarantee" fill="#002E5D" xml:space="preserve"
+              style="white-space: pre" font-family="Poppins" font-size="12" font-weight="600"
+              letter-spacing="0.0112em"><tspan x="528" y="383.7">25-Year Performance Guarantee</tspan></text>
+            <text
+              id="Ensure the production of your roof with the purchase of the Solar Max Limited Warranty."
+              fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+              font-size="10" letter-spacing="0.0112em"><tspan x="528" y="401">Ensure the production of your roof with the </tspan><tspan x="528" y="416">purchase of the Solar Max Limited Warranty.</tspan></text>
+          </g>
         </g>
       </g>
     </g>
   </g>
-
 </svg>
