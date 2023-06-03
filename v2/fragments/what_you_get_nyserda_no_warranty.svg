@@ -93,12 +93,9 @@
         </g>
         <g id="Built-In Energy Shingles">
           <g id="Energy shingles">
-          <text id="Token_SystemSize" fill="#002E5D" xml:space="preserve"
-              style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-              letter-spacing="0.0112em"><tspan x="528" y="180.4">7.12 kW</tspan></text>
             <text id="systemSizeText" fill="#002E5D" xml:space="preserve"
               style="white-space: pre" font-family="Poppins" font-size="14" font-weight="600"
-              letter-spacing="0.0112em"><tspan x="528" y="180.4">  Timberline Solar ES</tspan></text>
+              letter-spacing="0.0112em"><tspan x="528" y="180.4">Timberline Solar ES</tspan></text>
             <text
               id="Add value to your home with a roof that reliably reduces your energy bills."
               fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
