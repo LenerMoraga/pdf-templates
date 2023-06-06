@@ -364,15 +364,15 @@
                 font-size="10"
                 letter-spacing="0.0112em">
                 <tspan x="32" y="561">*Guarantee of solar system performance is available with purchase of the Solar Max Limited Warranty through your GAF Contractor. This is not </tspan>
-                <tspan x="32" y="576">a receipt of purchase. See </tspan>
+                <tspan x="32" y="576">a receipt of purchase. See  </tspan>
                 <tspan x="310" y="576">for complete coverage and restrictions.</tspan>
             </text>
-            <text fill="#002E5D" xml:space="preserve" style="white-space: pre" font-family="Poppins"
+            <text fill="#002E5D" font-family="Poppins"
                 font-size="10"
                 letter-spacing="0.0112em">
-                <tspan x="170" y="576"><a
+                <tspan x="174" y="576"><a
                         style="text-decoration: underline; fill: #002E5D;"
-                        href="http://www.gaf.energy/warranty">www.gaf.energy/warranty</a>
+                        href="https://www.gaf.energy/warranty">www.gaf.energy/warranty</a>
                 </tspan>
             </text>
         </g>
