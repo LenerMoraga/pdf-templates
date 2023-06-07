@@ -6,11 +6,11 @@
     <g id="Savings">
       <line id="Divider" x1="488" y1="148.5" x2="752" y2="148.5" stroke="black" />
     </g>
-    <g id="Description" clip-path="url(#clip0_4898_94044)">
+    <g id="Description">
       <g id="3">
         <g id="ENERGY_Icon_SolarHouse_FullColor_New">
           <g id="Icon/ medal">
-            <g id="Asset 4 2" clip-path="url(#clip1_4898_94044)">
+            <g id="Asset 4 2">
               <g id="Layer 1">
                 <g id="Group">
                   <g id="Group_2">
@@ -370,5 +370,4 @@
       </g>
     </g>
   </g>
-
 </svg>
