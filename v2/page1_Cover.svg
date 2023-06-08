@@ -20,17 +20,17 @@
                 <g id="Name/Contact">
                     <g id="Contact info">
                         <g id="Name">
-                            <text id="Token_SalesRepName" fill="#101820" xml:space="preserve" style="white-space: pre"
+                            <text id="Token_RoofRepName" fill="#101820" xml:space="preserve" style="white-space: pre"
                                 font-family="Poppins" font-size="14" font-weight="600" letter-spacing="0.0112em">
-                                <tspan x="196" y="532.4">Jane Doe</tspan>
+                                <tspan x="196" y="532.4" />
                             </text>
                         </g>
                         <g id="Address">
-                            <text id="Token_SalesRepMail" fill="#101820" xml:space="preserve" style="white-space: pre"
+                            <text id="Token_RoofRepEmail" fill="#101820" xml:space="preserve" style="white-space: pre"
                                 font-family="Poppins" font-size="14" letter-spacing="0.0112em">
                                 <tspan x="196" y="553.4">Jdoe@roofingco.com</tspan>
                             </text>
-                            <text id="Token_SalesRepPhone" fill="#101820" xml:space="preserve" style="white-space: pre"
+                            <text id="Token_RoofRepPhone" fill="#101820" xml:space="preserve" style="white-space: pre"
                                 font-family="Poppins" font-size="14" letter-spacing="0.0112em">
                                 <tspan x="196" y="574.4">415-555-1212</tspan>
                             </text>
